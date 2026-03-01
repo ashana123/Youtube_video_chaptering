@@ -1,0 +1,37 @@
+[
+    {
+        "start": 0.0,
+        "end": 7.34,
+        "text": "Most important learning, you know, there are times when there is the right path, which is the difficult one, and then an easy path.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 7.66,
+        "end": 8.54,
+        "text": "Which one do we pick?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 8.84,
+        "end": 11.52,
+        "text": "Many times it's not clear which is the right path.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 11.86,
+        "end": 20.64,
+        "text": "Here Ram chose the most difficult path where he lost everything in spite of so many arguments by others that he could have accepted and said,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 20.72,
+        "end": 26.84,
+        "text": "alright, I will stay, but will we choose the right path when we are faced with a choice like this?",
+        "pause_after": false,
+        "tonal_change": true
+    }
+]

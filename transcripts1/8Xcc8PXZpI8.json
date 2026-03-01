@@ -1,0 +1,72 @@
+[
+    {
+        "start": 0.0,
+        "end": 1.04,
+        "text": "You want kids?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 1.54,
+        "end": 1.7,
+        "text": "Yeah.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1.88,
+        "end": 2.54,
+        "text": "Why do you want kids?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 2.76,
+        "end": 4.96,
+        "text": "So, it's something I've thought about a lot",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 4.96,
+        "end": 7.72,
+        "text": "to the point where every time I meet someone who's had kids",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 7.72,
+        "end": 9.74,
+        "text": "I tend to find a way to ask them like",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 9.74,
+        "end": 10.62,
+        "text": "was it a good decision?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 10.86,
+        "end": 11.58,
+        "text": "Are you happy with it?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 11.68,
+        "end": 13.08,
+        "text": "There's always a heavy bias of",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 13.08,
+        "end": 14.94,
+        "text": "I can't say it was a bad decision.",
+        "pause_after": false,
+        "tonal_change": false
+    }
+]

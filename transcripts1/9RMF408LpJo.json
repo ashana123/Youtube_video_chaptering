@@ -1,0 +1,2893 @@
+[
+    {
+        "start": 5.819999999999999,
+        "end": 7.0,
+        "text": "\u0905\u092d\u0928\u0947 \u092a\u0930\u094d\u091f\u093f\u0915\u094d\u0937\u093e\u092a\u0941\u0937\u094d\u092f\u093e\u0907\u091c\u093f\u090f\u0917\u093e\u0901 \u092a\u094d\u0930\u0947\u092e \u092a\u0930 \u092a\u094d\u0930\u093e\u091c\u093c\u093f\u092f\u093e\u0901 \u092a\u0930 \u092a\u0930\u0942\u0927\u093e\u0901\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 7.72,
+        "end": 14.12,
+        "text": "\u0915\u094d\u092f\u093e \u091c\u093f\u0928\u094d\u0926\u093f\u0917\u0940 \u092e\u0947\u0902 \u0915\u093f\u0938\u0940 \u0926\u0942\u0938\u0930\u0947 \u0935\u0947\u0915\u094d\u0924\u093f \u0915\u093e \u0938\u093e\u0925 \u091c\u093c\u0930\u0942\u0930\u0940 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 14.12,
+        "end": 19.06,
+        "text": "\u0906\u091c \u092e\u0948\u0902\u0928\u0947 \u092a\u094d\u0930\u0947\u092e \u0935\u093f\u0936\u094d\u092f\u093e\u0907 \u092a\u0930 \u0906\u092a\u0915\u094b \u092a\u0922\u093c\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 19.06,
+        "end": 24.06,
+        "text": "\u0906\u092a\u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0915\u093f \u092a\u094d\u0930\u0947\u092e \u0926\u0942\u0938\u0930\u0947 \u0938\u0947 \u091a\u093f\u092a\u0915\u0928\u0947 \u0915\u093e \u0928\u093e\u092e \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 27.120000000000005,
+        "end": 31.06,
+        "text": "\u092e\u0928 \u0936\u093e\u0928\u094d\u0924 \u0939\u094b \u0905\u0915\u0947\u0932\u093e \u0939\u094b \u0924\u092c \u0909\u0938\u0947 \u092a\u094d\u0930\u0947\u092e \u0938\u092e\u091d \u0906\u0924\u093e \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 33.74,
+        "end": 36.34,
+        "text": "\u092a\u0930 \u092e\u0948\u0902 \u0924\u094b \u0905\u0915\u0947\u0932\u0947 \u0928\u0939\u0940\u0902 \u0930\u0939 \u092a\u093e\u0924\u0940 \u0939\u0942\u0902\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 36.34,
+        "end": 39.06,
+        "text": "\u0915\u094d\u092f\u093e \u092e\u0941\u091d\u0947 \u092a\u094d\u0930\u0947\u092e \u0915\u092d\u0940 \u0938\u092e\u091d \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0906\u092f\u0917\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 40.06,
+        "end": 44.06,
+        "text": "\u0905\u0924\u0940\u0924 \u092e\u0947\u0902 \u092e\u0941\u091d\u0947 \u092a\u094d\u0930\u0947\u092e \u0939\u0941\u0906 \u0925\u093e \u0910\u0938\u093e \u092e\u0941\u091d\u0947 \u0932\u0917\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 46.36,
+        "end": 50.06,
+        "text": "\u092a\u0930 \u0906\u091c \u0938\u092e\u091d \u0906\u0924\u093e \u0939\u0948 \u0915\u093f \u0935\u094b \u0938\u091a\u094d\u091a\u093e \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u0925\u093e\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 51.48,
+        "end": 55.06,
+        "text": "\u0906\u0917\u0947 \u0938\u0947 \u0915\u0948\u0938\u0947 \u092a\u0930\u0915\u0942\u0901 \u0915\u093f \u092a\u094d\u0930\u0947\u092e \u0938\u091a\u094d\u091a\u093e \u0939\u0948 \u092f\u093e \u0928\u0939\u0940\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 60.39999999999999,
+        "end": 63.06,
+        "text": "\u092c\u0939\u0941\u0924 \u0938\u0930\u0932 \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 64.8,
+        "end": 72.68,
+        "text": "\u092a\u0930\u0915\u0941\u0928 \u0939\u0948 \u0915\u093f \u092a\u094d\u0930\u0947\u092e \u0938\u091a\u094d\u091a\u093e \u0939\u0948 \u092f\u093e \u0928\u0939\u0940\u0902\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 72.68,
+        "end": 81.94,
+        "text": "\u0924\u094b \u092c\u0938 \u092f\u0947 \u0926\u0947\u0916 \u0932\u094b \u0915\u093f \u092a\u094d\u0930\u0947\u092e \u0924\u0941\u092e\u0939\u093e\u0930\u093e \u0924\u0941\u092e\u0915\u094b \u0926\u0947 \u0915\u094d\u092f\u093e \u0930\u0939\u093e \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 81.94,
+        "end": 84.06,
+        "text": "\u0938\u0941\u0915\u094d\u0937 \u092f\u093e \u0939\u0942\u0936\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 87.34,
+        "end": 92.04,
+        "text": "\u0936\u0941\u0930\u0949\u0906\u0924 \u092e\u0947\u0902 \u0939\u0940 \u092a\u0941\u091b\u093e \u0939\u0948 \u0915\u093f \u0915\u094d\u092f\u093e \u0915\u093f\u0938\u0940 \u0926\u0941\u0938\u0930\u0947 \u0935\u093f\u0915\u094d\u0924\u0947 \u0915\u093e \u0938\u093e\u0925 \u091c\u0930\u0942\u0930\u0940 \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 92.04,
+        "end": 98.04,
+        "text": "\u091c\u0930\u0942\u0930\u0940 \u0935\u093f\u0915\u094d\u0924\u0947 \u0915\u093e \u0938\u093e\u0925 \u0924\u094b \u0939\u094b\u0917\u093e \u0939\u0940 \u0939\u094b\u0917\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 100.42,
+        "end": 103.04,
+        "text": "\u0915\u094d\u092f\u093e \u0906\u092a \u0915\u092d\u0940 \u0915\u093f\u0938\u0940 \u0938\u0947 \u0938\u0902\u092a\u0930\u094d\u0915 \u092e\u0947\u0902 \u0928\u0939\u0940\u0902 \u0906\u0908\u0902\u0917\u0947\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 104.28,
+        "end": 113.04,
+        "text": "\u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u0915\u093f \u0915\u094b\u0908 \u0915\u0939\u0947 \u0915\u093f \u092e\u0948\u0902 \u092c\u0939\u0941\u0924 \u0906\u0924\u092e\u0940 \u0939\u0948\u0902, \u0905\u0902\u0924\u0930\u0902\u0917, \u0928\u093f\u0915\u091f \u0938\u092e\u094d\u092c\u0902\u0927 \u0928\u0939\u0940\u0902 \u092c\u0928\u093e\u0909\u0902\u0917\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 114.06,
+        "end": 120.3,
+        "text": "\u0924\u093f\u0915\u093f\u0902 \u092b\u093f\u0930 \u0938\u0947 \u092a\u0930 \u092d\u0941\u092d\u0940 \u0915\u093f\u0938\u0940-\u0928\u0939\u0940\u0902 \u0938\u0940\u092e\u093e \u0924\u0915 \u0924\u094b \u0906\u092a\u0915\u094b \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u0939\u094b\u0928\u093e \u0939\u0940 \u092a\u0930\u0947\u0917\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 120.3,
+        "end": 128.18,
+        "text": "\u0914\u0930 \u091c\u0939\u093e\u0901 \u0938\u0902\u092c\u0902\u0927 \u0939\u0948 \u0935\u0939\u093e\u0901 \u0938\u093e\u0925, \u0924\u094b \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0938\u0902\u092c\u0902\u0927\u094b\u0902 \u0938\u0947 \u092c\u091a\u0915\u0930 \u0924\u094b \u0928\u0939\u0940\u0902 \u0930\u0939\u093e \u091c\u093e \u0938\u0915\u0924\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 128.18,
+        "end": 143.12,
+        "text": "\u0938\u0902\u092c\u0902\u0927 \u0924\u094b \u092c\u0928\u0947\u0902\u0917\u0947-\u0902\u0917\u0947\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 144.88,
+        "end": 147.58,
+        "text": "\u0909\u0938\u0915\u0947 \u0938\u093e\u0925 \u0915\u0947 \u0908\u0936 \u0915\u093f\u0938\u093e perks \u092a eventual \u0938\u0947 \u0906\u092a \u092a\u0930 \u0928\u0936 FY cannot \u091b\u0940 \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 147.58,
+        "end": 150.88,
+        "text": "\u0909\u0938\u0915\u0947 \u0938\u093e\u0924\u094dfrei \u0915\u0947 \u0938\u0902\u092c\u0928\u0927 \u0938\u0947 \u0906\u092a \u0915\u094b \u0938\u094b\u0941\u0916 \u092e\u093f\u0932 \u0930\u0939\u093e \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 154.32,
+        "end": 159.1,
+        "text": "\u091c\u092c \u0915\u093f\u0938\u0940 \u0915\u0947 \u0938\u093e\u0925 \u0938\u0947 \u0906\u092a\u0915\u094b \u0938\u0941\u0916 \u092e\u093f\u0932 \u0930\u0939\u093e \u0939\u094b\u0924\u093e \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 159.1,
+        "end": 171.78,
+        "text": "\u0924\u094b \u0906\u092a \u091c \u0939\u0948 \u0906\u092a\u0915\u094b \u092c\u0902cember\u0947 \u0932\u093f\u091c \u043f\u043e\u043b\u0438\u0442\u094b\u0902 \u0915\u093f \u092f eject\u0940 \u0936\u093e\u0930\u094d\u092f\u094b\u0902\u0915\u093e \u0918\u0940 \u043d\u0430\u0447 website.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 171.78,
+        "end": 173.96,
+        "text": "\u092e\u0947\u0902 \u0938\u092e\u091d\u0940 \u0907\u092e\u0915\u094b\u0908 \u092d\u0930\u0942\u0938\u093fhimam samijhi conscious",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 174.5,
+        "end": 175.8,
+        "text": "\u0915\u0941\u0908 \u0939\u093e\u090f arm kh\u043e\u0447\u043a\u0438 confronting",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 175.8,
+        "end": 176.24,
+        "text": "\u0914\u0930 \u0909\u0938\u0938\u0947 also",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 176.24,
+        "end": 177.08,
+        "text": "\u0909\u0938\u0932\u0947\u0964 aur usse",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 177.08,
+        "end": 178.54,
+        "text": "\u0905\u092a\u0915\u094b \u0938\u0941\u0915\u094d\u0939 \u092e\u0933\u0938\u094d\u0935\u0928 \u092c\u0930\u093e \u0939\u093e \u092a\u0924 \u0939\u0941\u0908\u0964 there is a happiness\ufffdour.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 178.54,
+        "end": 181.04,
+        "text": "\u0938\u0941\u0915\u094d\u093c \u0906\u092a\u0915\u0947 \u0906\u092a \u0915\u093f\u0938\u093e \u091c\u0941\u0927\u094d\u092f \u0936\u0922\u093f\u0902\u0938 \u0915\u093e \u0914\u0930 what is the situation going through the body",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 181.04,
+        "end": 184.46,
+        "text": "\u091c\u094b \u0939\u093e\u0932\u0924 \u0906\u092a\u0915\u0947 \u0915\u0947 \u092b\u093f\u0932 \u0927giving at a midnight",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 184.46,
+        "end": 186.38,
+        "text": "\u0905\u092a\u0915\u094b \u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u092e\u0947\u0902\u0964fly in the present life",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 186.38,
+        "end": 192.54,
+        "text": "\u0924\u094b \u0906\u092a\u0915\u0940 \u091c\u094b \u0905\u092e\u0924 \u0939\u0948 \u0924\u094b \u0909\u0938\u0947 \u092e\u0947\u0902 \u0915\u094b \u0938\u0941\u0916 \u092e\u093f\u0932\u094d\u0932 \u0930\u0939\u093e \u0939\u0948 \u0924\u094b \u0906\u092a \u0909\u0938 art Chuck ACG",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 192.54,
+        "end": 194.2,
+        "text": "\u0915\u094b \u0915\u094d\u092f\u094b\u0902 \u092c\u0926\u092e\u093f\u0923\u0917\u0947 Kuo bad recipient",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 194.2,
+        "end": 196.82,
+        "text": "\u0920\u0940\u0915 \u0921\u094b\u306a\u304f\u0932\u0917\u0947 \u0925\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 196.82,
+        "end": 198.16,
+        "text": "\u0924\u094b \u0906\u092a \u0909\u0938Neet.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 198.5,
+        "end": 199.66,
+        "text": "\u0935\u094b \u0937\u0924\u094d\u091e\u092e\u093e\u092f \u0922\u093f\u0915 \u0939\u0948 \u0915\u0939\u0924\u0947 \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 199.66,
+        "end": 203.84,
+        "text": "\u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0938\u0941\u0915\u094d\u0939 \u0924\u094b \u0935\u0948\u0936\u093e \u0930\u0939\u0924\u0947 \u0939\u0942\u090f \u092e\u093f\u0932\u094d\u0932 \u0930\u0939\u093e \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 205.85999999999999,
+        "end": 211.76,
+        "text": "\u0924\u094b \u0938\u0941\u0916 cribadi\u0940 \u092c\u0928\u091c\u093e \u0925\u093e \u0643\u0627\u0646 opportunities and decisions",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 211.76,
+        "end": 215.92,
+        "text": "\u0915\u093f\u0938\u0940 \u092d\u0940 \u0924\u0930\u0939 \u0915\u0947 \u0938\u0941\u0927\u093e\u0930 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 217.26,
+        "end": 220.35999999999999,
+        "text": "\u0938\u0941\u0916 \u0915\u093f\u0938\u0940 \u092d\u0940 \u0924\u0930\u0939",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 222.18,
+        "end": 224.92,
+        "text": "\u0915\u0947 \u0909\u0924\u0915\u0930\u094d\u0937 \u0915\u094b",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 226.24,
+        "end": 228.07999999999998,
+        "text": "\u0938\u093e\u0930\u094d\u0925\u0915 \u092c\u0926\u0932\u093e\u0935 \u0915\u094b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 229.62,
+        "end": 231.12,
+        "text": "\u0905\u0935\u0943\u0926\u094d\u0927 \u0915\u0930 \u0926\u0947\u0924\u093e \u0939\u0948",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 233.6,
+        "end": 235.32,
+        "text": "\u0938\u092e\u091d \u0930\u0939\u0947 \u0939\u0948\u0902 \u092d\u093e\u0924 \u0915\u094b",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 235.32,
+        "end": 237.2,
+        "text": "\u090f\u0915 \u0935\u093f\u092f\u0915\u094d\u0924\u0947 \u0906\u092a\u0915\u0940 \u091c\u0902\u0926\u0917\u0940 \u092e\u0947\u0902 \u0906\u092f\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 238.77,
+        "end": 239.49,
+        "text": "\u0915\u093f\u0938\u0940 \u0906\u092a \u0938\u092e\u091d \u0926\u0947\u0924\u093e \u0939\u0948\u0902",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 239.49,
+        "end": 239.49,
+        "text": "",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 239.49,
+        "end": 241.63,
+        "text": "\u0914\u0930 \u0935\u094b \u0915\u0939\u0930\u093e \u0939\u0948 \u0915\u093f \u0924\u0941\u092e \u091c\u0948\u0938\u0947 \u0939\u094b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 241.63,
+        "end": 247.39,
+        "text": "\u092e\u0948\u0902 \u0924\u0941\u092e\u093e\u0930\u0940 \u0909\u0938\u0940 \u0939\u093e\u0932\u0924 \u092e\u0947\u0902 \u0924\u0941\u092e\u094d\u0939\u0947\u0902 \u0938\u0941\u0915\u094d\u092f\u0940 \u0915\u0930 \u0926\u094c\u0917\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 249.11,
+        "end": 251.61,
+        "text": "\u0906\u092a\u0915\u0940 \u090f\u0915 \u0939\u093e\u0932\u0924 \u0939\u0948 \u0909\u0938\u0915\u0940 \u090f\u0915 \u0939\u093e\u0932\u0924 \u0939\u0948",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 251.61,
+        "end": 266.05,
+        "text": "\u0906\u092a\u0915\u0940 \u091c\u094b \u0939\u093e\u0932\u0924 \u0939\u0948 \u0935\u094b \u0926\u0942\u0938\u0930\u0947 \u0915\u0940 \u0939\u093e\u0932\u0924 \u0938\u0947 \u064a\u0639\u0941\u0916 \u092a\u093e \u0930\u0908\u0939\u0947 \u0910\u0902\u0917\u094d\u092f\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 267.23,
+        "end": 272.93,
+        "text": "\u0926\u094b\u0928\u094b\u0902 \u091c\u0948\u0938\u0947 \u0939\u0948\u0902 \u0935\u0948\u0938\u093e \u0930\u0939\u0924\u0947 \u0939\u0941\u090f \u090f\u0915 \u0926\u0942\u0938\u0930\u0947 \u0938\u0947 \u0938\u0941\u0916 \u092d\u094b \u0918\u0930\u0939\u0947\u0902 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 272.93,
+        "end": 282.87,
+        "text": "\u0924\u094b \u0905\u092c \u092c\u0924\u093e\u0908 \u0939\u0940, \u0915\u093f \u0926\u094b\u0928\u094b\u0902 \u0939\u0940 \u0915\u094d\u092f\u093e \u090f\u0915 \u0926\u0942\u0938\u0930\u0947 \u0915\u094b \u092c\u0926\u0932\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f, \u092d\u0948\u0925\u0930 \u0939\u094b\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f, \u0938\u0941\u0927\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0947\u0930\u093f\u091f \u0915\u0930\u0947\u0902\u0917\u0947?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 283.57,
+        "end": 291.23,
+        "text": "\u092c\u0932\u094d\u0915\u093f \u0905\u0917\u0930 \u0915\u094b\u0908 \u092c\u0926\u0932\u093e\u0935 \u0939\u094b \u0930\u0939\u093e \u0939\u094b\u0917\u093e \u0906\u092a \u092e\u0947\u0902, \u0924\u094b \u0935\u094b \u0926\u0942\u0938\u0930\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0906\u092a\u0915\u0947 \u092c\u0926\u0932\u093e\u0935 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0939\u094b \u091c\u093e\u090f\u0917\u093e, \u0915\u094d\u092f\u094b\u0902?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 292.07,
+        "end": 298.31,
+        "text": "\u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0906\u092a \u0905\u092d\u0940 \u091c\u0948\u0938\u0947 \u0939\u0948\u0902, \u0906\u092a \u0935\u0948\u0938\u0947 \u0930\u0939\u0924\u0947 \u0939\u0941\u090f \u0924\u094b \u0909\u0938\u0915\u094b \u0938\u0941\u0916 \u0926\u0947 \u092a\u093e\u0924\u0947 \u0939\u0948\u0902 \u0928?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 298.77,
+        "end": 301.03,
+        "text": "\u0909\u0938\u0915\u094b \u0938\u0941\u0916 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938 \u0939\u093e\u0932\u0924 \u0938\u0947 \u092e\u093f\u0932 \u0930\u0939\u093e \u0939\u0948?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 302.03,
+        "end": 306.59,
+        "text": "\u091c\u094b \u0939\u093e\u0932\u0924 \u0906\u092a\u0915\u0940 \u0905\u092d\u0940 \u0939\u0948, \u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u092e\u0947\u0902 \u0939\u0948, \u092d\u0932\u0947 \u0939\u0940 \u0935\u094b \u0915\u093f\u0924\u0928\u0940 \u092d\u0940 \u0917\u0908 \u0917\u0941\u091c\u0930\u0940 \u0939\u093e\u0932\u0924 \u0939\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 306.63,
+        "end": 310.49,
+        "text": "\u0932\u093f\u0915\u093f\u0928 \u0935\u094b \u0926\u0942\u0938\u0930\u0947 \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0915\u0947 \u0938\u0941\u093e\u0930\u094d\u0925 \u0915\u0947 \u0915\u093e\u092e \u0906\u0930\u0939\u0940 \u0939\u0948 \u0906\u092a\u0915\u0940 \u0939\u093e\u0932\u0924.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 311.87,
+        "end": 316.03,
+        "text": "\u0924\u094b \u0906\u092a \u0905\u0917\u0930 \u092c\u0926\u0932\u0928\u0947 \u0938\u0941\u0926\u0930\u0928\u0947 \u0932\u0917\u0947\u0902\u0917\u0947 \u0924\u094b \u0926\u0942\u0938\u0930\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f \u0928\u0930\u093e\u091c \u0939\u094b \u091c\u093e\u090f\u0917\u093e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 317.19,
+        "end": 320.25,
+        "text": "\u0935\u094b \u0915\u0939\u0947\u0917\u093e \u0915\u093f \u0924\u0941\u092e \u0926\u094b\u0916\u093e \u0926\u0947 \u0930\u0939\u0947 \u0939\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 321.23,
+        "end": 325.35,
+        "text": "\u0914\u0930 \u0909\u0938\u0915\u0940 \u092c\u093e\u0924 \u092e\u0947\u0902 \u0926\u092e \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0909\u0938\u0915\u094b \u0906\u092a \u0938\u0947 \u0932\u093e\u092c,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 326.23,
+        "end": 330.91,
+        "text": "\u0938\u0941\u0916 \u0915\u0947 \u0905\u0930\u094d\u0925 \u092e\u0947\u0902 \u0932\u093e\u092c, \u0939\u094b \u0939\u0940 \u092c\u0938 \u0924\u092d\u0940 \u0930\u0939\u093e \u0925\u093e,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 331.03,
+        "end": 336.47,
+        "text": "\u091c\u092c \u0906\u092a \u091c\u0948\u0938\u0947 \u092d\u0940 \u0917\u0908 \u0917\u0941\u091c\u0930\u0947 \u092c\u0927\u093e\u0932 \u0939\u0948 \u0935\u0948\u0938\u0947 \u0939\u0940 \u0930\u0939\u0947\u0902.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 336.97,
+        "end": 343.05,
+        "text": "\u0924\u0940\u0915, \u092f\u0947 \u092a\u094d\u0930\u0947\u092e \u0915\u0947 \u0928\u093e\u092e \u092a\u0930 \u0915\u0941\u091b \u0939\u094b\u0930 \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 343.05,
+        "end": 347.09,
+        "text": "\u0924\u0941\u0930\u094d\u092d\u093e\u0917\u093f\u0935\u0936 \u0905\u0927\u093f\u0915\u093e\u0928\u0936\u094d\u0924\u0939 \u092a\u094d\u0930\u0947\u092e \u0915\u0947 \u0928\u093e\u092e \u092a\u0930 \u092f\u0939\u0940 \u0939\u094b\u0924\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 347.41,
+        "end": 350.51,
+        "text": "\u092e\u0948\u0902 \u091c\u0948\u0938\u093e \u0939\u0942\u0902, \u092e\u0941\u091d\u0947 \u092a\u094d\u0930\u0938\u0928 \u0918\u0930\u094d\u0926\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 351.21,
+        "end": 354.81,
+        "text": "\u0914\u0930 \u0924\u0941\u092e \u091c\u0948\u0938\u0947 \u0939\u094b, \u092e\u0948\u0902 \u0924\u0941\u092e\u094d\u0939\u0947 \u092a\u094d\u0930\u0938\u0928 \u0918\u0930\u094d\u0926\u0942\u0917\u093e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 355.61,
+        "end": 358.99,
+        "text": "\u0932\u093f\u0915\u093f\u0928 \u0938\u0941\u0916 \u0924\u094b \u092d\u093e\u0924\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 359.33,
+        "end": 361.63,
+        "text": "\u0939\u0902\u0915\u093e\u0930 \u0938\u0941\u0915\u094d\u0915\u0940 \u0924\u0932\u093e\u0936 \u092e\u0947\u0902 \u0930\u0939\u0924\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 361.63,
+        "end": 366.01,
+        "text": "\u0924\u094b \u0907\u0938\u0940 \u0932\u093f\u090f \u0939\u0948 \u092f\u0939 \u091c\u094b \u091c\u0941\u0920\u093c\u094b\u0902 \u0915\u093f\u0938\u094d\u092e \u0915\u093e \u092a\u094d\u0930\u0947\u092e \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 366.01,
+        "end": 368.63,
+        "text": "\u092c\u094c\u0922\u0930\u093e \u092a\u094d\u0930\u091b\u0932\u0924 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 371.45,
+        "end": 373.67,
+        "text": "\u0924\u0941\u0930\u094d\u0935\u093e\u091c \u091a\u093e\u091a\u093f\u092f\u0947\u0917\u093e, \u0905\u092a\u0928\u0947 \u0906\u092a \u0938\u0947 \u092a\u0942\u091b\u093f\u092f\u0947\u0917\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 373.71,
+        "end": 375.81,
+        "text": "\u092f\u0939 \u091c\u094b \u0935\u0947\u0916\u094d\u091f\u093f \u092e\u0947\u0930\u0940 \u091c\u093f\u0928\u0926\u0917\u0940 \u092e\u0947\u0902 \u0906 \u0930\u0939\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 376.75,
+        "end": 380.45,
+        "text": "\u092f\u0939 \u092e\u0947\u0930\u0940 \u091c\u093f\u0928\u0926\u0917\u0940 \u092e\u0947\u0902 \u091a\u0941\u0928\u0949\u0924\u0940 \u0915\u0940 \u0924\u0930\u0939 \u0906 \u0930\u0939\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 382.63,
+        "end": 385.25,
+        "text": "\u092f\u093e \u092e\u091c\u0947 \u0915\u0940 \u0924\u0930\u0939 \u0906\u0930\u093e \u0939\u0948\u0902\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 388.67,
+        "end": 391.09,
+        "text": "\u091a\u0941\u0928\u093e\u0925\u0940 \u0915\u0940 \u0924\u0930\u0939 \u091c\u094b\u092c\u0940 \u0906\u092a\u0915\u0940 \u0926\u093f\u0928\u0926\u0915\u0940 \u092e\u0947\u0902 \u0906\u092f\u0947\u0917\u093e\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 393.21,
+        "end": 397.81,
+        "text": "\u0909\u0938\u0938\u0947 \u0925\u094b\u0921\u093c\u0940 \u0924\u094b \u0906\u092a\u0915\u094b \u0905\u0938\u0941\u0935\u093f\u0927\u093e \u0939\u094b\u0917\u0940\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 402.35,
+        "end": 407.69,
+        "text": "\u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u092c\u094c\u0927\u094d\u0927\u093f\u0915 \u0924\u0932 \u092a\u0930 \u0906\u092a\u0915\u094b \u092a\u0924\u093e \u092d\u0940 \u0939\u094b \u0905\u0935\u094b \u091a\u0941\u0928\u093e\u0925\u0940 \u0906\u092a\u0915\u094b \u092a\u094d\u0930\u0938\u094d\u0925\u0943\u0924 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 409.57,
+        "end": 414.49,
+        "text": "\u0932\u0947\u0915\u093f\u0928 \u092b\u093f\u0930 \u092d\u0940 \u0906\u092a \u0909\u0938\u0938\u0940 \u0916\u093f\u0938\u093f \u0906\u0908\u0902\u0917\u0947,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 418.07,
+        "end": 421.29,
+        "text": "\u092e\u0928\u0940 \u092e\u0928 \u092d\u093e\u0935 \u0909\u0920\u0947\u0917\u093e \u0915\u093f \u092f\u0947 \u0906\u0939\u0940 \u0915\u094b \u0917\u0939\u093e \u0939\u0948 \u091c\u0902\u0926\u093f\u0917\u093f\u092e\u0947\u0902,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 422.67,
+        "end": 426.17,
+        "text": "\u092f\u0947 \u092a\u0930\u0947\u0936\u093e\u0928 \u0915\u0930\u0923\u093e \u0939\u0948, \u092e\u091c\u092c\u0942\u0930 \u0915\u0930\u0924\u093e \u0939\u0948, \u092e\u0939\u0928\u0924 \u0915\u0930 \u0935\u093e\u0924\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 426.57,
+        "end": 434.97,
+        "text": "\u091a\u0941\u0928\u093e\u0925\u0940 \u0926\u0947\u0924\u093e \u0939\u0948, \u0905\u0939\u0902\u0916\u093e\u0930 \u0915\u0941\u091b\u0924\u093e \u0939\u0948, \u092a\u0930\u0947\u0936\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948 \u092d\u093e\u0908, \u092f\u0947 \u0906\u0926\u092e\u0940 \u092d\u0940 \u092a\u093e\u0938\u0902\u0924 \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 437.33,
+        "end": 441.71000000000004,
+        "text": "\u0924\u0941\u0938\u094d\u0930\u0940 \u092f\u0941\u0930\u094d\u091c\u093c \u0915\u0940 \u090f\u091c\u0915\u093f\u0902\u0926\u093f\u0918\u0940 \u092e\u0947\u0902 \u0906\u092f\u0947\u0902\u0917\u093e \u0914\u0930 \u0916\u093c\u093c\u0930\u0964 \u0924\u0941\u092e \u091c\u0948\u0937\u0947 \u092d\u0940 \u0939\u094b \u092e\u0941\u091d\u0947 \u092c\u0939\u0941\u0924 \u092a\u094d\u092f\u093e\u0930\u0947 \u0939\u094b\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 443.15,
+        "end": 447.55,
+        "text": "\u0909\u092e \u0935\u0938\u0947 \u0939\u0941\u090f \u092c\u0939\u0941\u0924 \u092a\u094d\u092f\u093e\u0930\u0947 \u0939\u0948\u0902 \u092f\u093e \u092c\u0932\u0917\u093e\u0928 \u091a\ub294\uc9c0\u0928 \u0930\u0935 \u0936\u0941\u0930\u094d\u091a \u091c\u093e\u0930\u093e\u0925 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0906\u0939\u093e \u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 447.55,
+        "end": 450.75,
+        "text": "\u0915\u093f\u0928\u094d\u0928\u0947 \u0916\u0941\u092a\u0938\u0941\u0930\u0924 \u0939\u094b \u0924\u0941\u092e, \u0915\u093f\u0928\u094d\u0928\u0947 \u092a\u094d\u092f\u093e\u0930\u0947 \u0939\u094b \u0924\u0941\u092e, \u0915\u094d\u092f\u093e \u092c\u093e\u0924 \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 452.12999999999994,
+        "end": 454.35,
+        "text": "\u0938\u092e\u0938\u094d\u0924 \u0935\u093f\u092d\u0942\u0924\u093f\u092f\u094b\u0902 \u0938\u0947 \u092f\u0949\u0915\u094d\u0924 \u0924\u0941\u092e \u0939\u0940 \u0924\u094b \u0939\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 456.23,
+        "end": 458.09,
+        "text": "\u0924\u0941\u092e \u092e\u0947\u0902 \u0930\u092c \u0926\u093f\u0915\u0924\u093e \u0939\u0948, \u092c\u0917\u0935\u093e\u0928 \u0939\u094b \u0924\u0941\u092e \u092e\u0947\u0930\u0947\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 458.09,
+        "end": 459.97,
+        "text": "\u0909\u0938\u0915\u0947 \u0938\u093e\u0925 \u0906\u092a \u092c\u0939\u0941\u0924 \u092a\u094d\u0930\u0938\u0928 \u0932\u094b \u091c\u093e\u090f\u0902\u0917\u0947,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 459.97,
+        "end": 461.53,
+        "text": "\u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0909\u0938\u0928\u0947 \u0924\u094b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 461.53,
+        "end": 463.37,
+        "text": "\u091a\u0922\u093c\u093e \u0926\u093f\u092f\u093e \u0906\u092a\u0915\u094b \u091a\u0928\u0947 \u0915\u0947 \u091c\u093e\u0921\u093c \u092a\u0930,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 466.01,
+        "end": 469.13,
+        "text": "\u091a\u0928\u0947 \u0915\u0947 \u091c\u093e\u0921\u093c \u092a\u0930 \u091a\u0922\u093c\u0928\u0947 \u0915\u093e \u092b\u093e\u0907\u0921\u093e \u092f\u0939 \u0939\u094b\u0924\u093e \u0939\u0948 \u0915\u093f",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 469.13,
+        "end": 470.57000000000005,
+        "text": "\u0905\u092c \u0915\u093f\u0938\u0940 \u092d\u0940",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 471.13,
+        "end": 472.97,
+        "text": "\u0905\u0928\u094d\u092f \u0909\u091a\u093e\u0908 \u0938\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 474.75,
+        "end": 477.57000000000005,
+        "text": "\u0905\u092c \u0906\u092a \u0905\u0935\u0943\u0926 \u0932\u094b \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 480.19,
+        "end": 483.25,
+        "text": "\u0914\u0930 \u0909\u092a\u0930 \u091a\u0922\u093c\u0928\u0947 \u092e\u0947\u0902 \u091c\u094b \u0936\u094d\u0930\u092e \u0932\u0917\u0924\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 483.29,
+        "end": 490.29,
+        "text": "\u0909\u0938 \u0936\u094d\u0930\u092e \u0915\u0947 \u0935\u093f\u0930\u0941\u0926\u094d\u0927 \u0905\u092c \u0906\u092a \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0939\u094b \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 490.29,
+        "end": 491.93,
+        "text": "\u091a\u0928\u0947 \u092a\u0947 \u091a\u0922\u093c\u0915\u0947 \u092c\u0948\u091f \u0917\u092f\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 492.15,
+        "end": 494.21,
+        "text": "\u0914\u0930 \u0906\u092a\u0915\u094b \u0906\u092a\u0915\u0947 \u092a\u094d\u0930\u0947\u092e\u0940 \u0928\u0947 \u092c\u0924\u093e \u0926\u093f\u092f\u093e \u0939\u0948 \u0915\u093f",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 494.21,
+        "end": 497.23,
+        "text": "\u092c\u0938 \u092f\u0939\u0940 \u0924\u094b \u0906\u0938\u094d\u092e\u093e\u0928 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 497.23,
+        "end": 501.35,
+        "text": "\u0924\u094b \u0905\u092c \u0906\u0917\u0947 \u0915\u0940 \u091c\u093f\u0924\u0928\u0940 \u092d\u0940 \u0909\u091a\u093e\u0908\u092f\u093e \u0925\u0940,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 502.21,
+        "end": 505.35,
+        "text": "\u0909\u0928\u0915\u093e \u0906\u092a \u0915\u0947 \u0932\u093f\u090f \u0915\u094b\u0908 \u092e\u0939\u0924 \u0928\u0939\u0940\u0902 \u0930\u0939\u093e, \u0915\u094b\u0908 \u0905\u0930\u094d\u0925 \u0928\u0939\u0940\u0902 \u0930\u0939\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 506.09,
+        "end": 509.91,
+        "text": "\u0906\u092a\u0915\u0947 \u092a\u093e\u0938 \u0915\u094b\u0908 \u0915\u093e\u0930\u0923, \u0915\u094b\u0908 \u092a\u094d\u0930\u093f\u0930\u0923\u093e \u0928\u0939\u0940\u0902 \u092c\u091a\u0940 \u0915\u093f \u0905\u0935\u093e\u092a \u0914\u0930 \u0909\u091a\u093e\u0908 \u091a\u0922\u093c\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 509.91,
+        "end": 531.33,
+        "text": "\u0906\u092a\u0915\u0940 \u092a\u094d\u0930\u0947\u092e\u0940 \u0928\u0947 \u0915\u093e \u092c\u0938 \u0924\u094b \u0906\u0938\u094d\u092e\u093e\u0928 \u092a\u0930\u0940 \u0924\u094b \u092c\u0948\u0920\u0947 \u0939\u0941\u090f \u0939\u0942\u090f \u0939\u0942\u0901\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 531.33,
+        "end": 536.33,
+        "text": "\u0915\u0939\u0924\u0947 \u0928, \u0924\u094b \u092e\u0947\u0930\u0940 \u092a\u0940\u091f \u0939\u0941\u0901\u091a\u094b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 537.51,
+        "end": 539.33,
+        "text": "\u0914\u0930 \u092e\u0948\u0902 \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u0947 \u0916\u0941\u091c\u0932\u0940 \u0915\u0930\u0947\u0902\u0917\u093e,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 540.35,
+        "end": 541.33,
+        "text": "\u0926\u094b\u0928\u094b\u0902 \u0916\u0941\u0936 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 549.7099999999999,
+        "end": 551.15,
+        "text": "\u092f\u0939\u0940 \u090f\u0915",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 552.4499999999999,
+        "end": 553.33,
+        "text": "\u0935\u093f\u0926\u094d\u0927\u093f \u0906\u092a \u0932\u0917\u093e\u0932\u0947\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 554.39,
+        "end": 556.49,
+        "text": "\u0910\u0938\u0947 \u0939\u0940 \u092a\u0930\u093f\u0915\u094d\u0937\u0923 \u0915\u0930 \u0932\u0947\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 556.55,
+        "end": 557.33,
+        "text": "\u0924\u094b \u092d\u0940",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 558.65,
+        "end": 561.57,
+        "text": "\u092d\u0942\u091f\u094b\u0902 \u0915\u094b \u0939\u0928\u0940 \u0915\u0930\u0939\u093e \u0939\u0941\u0901\u0917\u093e \u0917\u0940,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 563.23,
+        "end": 568.35,
+        "text": "\u092c\u094c\u0924 \u0938\u093e\u0930\u0947 \u092d\u093e\u0935\u0940 \u0938\u092e\u092c\u0923\u0927\u094b\u0902 \u0915\u093e \u0930\u093e\u091c\u094d\u0935\u093e\u0936 \u0939\u094b \u091c\u093e\u090f\u0917\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 570.93,
+        "end": 578.15,
+        "text": "\u092d\u094c\u0924 \u0938\u093e\u0930\u0940 \u0915\u093e\u0939\u093e\u0928\u093f\u092f\u093e\u0902 \u0935\u093f\u0938\u094d\u0924\u093e\u0930 \u0932\u0947\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u0940 \u0916\u0924\u092e \u0939\u094b \u091c\u093e\u090f\u090f\u0902\u0917\u0940,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 578.25,
+        "end": 583.63,
+        "text": "\u092c\u094c\u0924 \u0938\u093e\u0930\u0940 \u092d\u0940\u092e\u093e\u0930\u093f\u092f\u0902 \u091c\u093c\u0921 \u092a\u0915\u0921\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u0940 \u092b\u093c\u093f\u0932\u093e\u0907\u0902\u0917\u0940,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 584.73,
+        "end": 605.63,
+        "text": "\u092a\u0942\u091b \u0932\u093f\u092f\u093e \u0915\u0930\u0940\u090f, \u092f\u094b \u0907\u0928\u0938\u093e\u0928 \u092e\u0947\u0930\u0940 \u0938\u093f\u0928\u0926\u0917\u0940 \u092e\u0947\u0902 \u0939\u0948, \u092f\u094b \u092e\u0941\u091d\u0947 \u092c\u0922\u093c\u0924\u0947, \u092c\u0926\u0932\u0924\u0947, \u092c\u0939\u0924\u0930 \u0939\u094b\u0924\u0947 \u0926\u0947\u0916\u0928\u093e \u091a\u093e\u0939\u0924\u093e \u0939\u0948, \u092f\u093e \u092e\u0948\u0902 \u091c\u0948\u0938\u093e \u0939\u0942\u0902, \u092f\u0947 \u0909\u0938\u0938\u0947 \u0939\u0940 \u0938\u0902\u0924\u0941\u0937\u094d\u091f \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 609.7700000000001,
+        "end": 625.63,
+        "text": "\u0905\u092c \u090f\u0915 \u092c\u0922\u093c\u093e \u0938\u0935\u093e\u0932 \u0906\u090f\u0917\u093e \u0906\u092a\u0915\u0947 \u0938\u093e\u092e\u0928\u0947, \u091c\u094b \u0906\u092a\u0915\u0940 \u0926\u093f\u0928\u0926\u0917\u0940 \u092e\u0947\u0902 \u0906\u092f\u093e \u0939\u0948, \u0905\u0917\u0930 \u0935\u094b \u0906\u092a\u0915\u094b \u092a\u094d\u0930\u0947\u0930\u093f\u0926 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948, \u0915\u093f \u0924\u0941\u092e \u092c\u0926\u0932\u094b, \u092c\u0939\u0924\u0930 \u0939\u094b, \u0924\u0941\u092e\u0939\u0928\u0947 \u0935\u094b \u091c\u093e\u0928\u0924\u093e \u0939\u0948, \u0915\u093f \u0906\u092a \u091c\u0948\u0938\u0947 \u0939\u094b \u0925\u0940\u0915 \u0928\u0939\u0940\u0902 \u0939\u094b, \u0924\u092c \u0939\u0940 \u0924\u094b \u0915\u0939 \u0930\u0939\u093e \u0939\u0948, \u0915\u093f \u0938\u0941\u0926\u0930 \u091c\u093e\u0913, \u092c\u0939\u0924\u0930 \u0939\u094b \u091c\u093e\u0913, \u0924\u094b \u092b\u093f\u0930 \u0939\u0948\u0930\u0924 \u092d",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 625.63,
+        "end": 630.59,
+        "text": "\u0905\u092d\u0930 \u0938\u0935\u093e\u0932\u093f \u0906\u0925\u093e \u0939\u0948 \u0915\u093f \u091c\u092c \u0909\u091c\u093e\u0928\u0924\u093e \u0939\u0948 \u0905\u092a \u0924\u0940\u0915 \u0928\u0939\u0940\u0902 \u0939\u094b \u0924\u094b \u092b\u093f\u0930 \u0909\u092a\u0915\u0940 \u0911\u0915\u0930\u094d\u0937\u0947\u0925 \u092f\u0947 \u0915\u092f\u094b \u0932\u094b \u0930\u0939\u0947 \u0939\u0948\u0902?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 632.05,
+        "end": 635.37,
+        "text": "\u092f\u0939\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0940 \u0928\u093f\u0938\u094d\u0935\u093e\u0930\u094d\u0925 \u0924\u093e \u0939\u0948, \u0928\u093f\u0936\u094d\u0915\u093e\u092e\u0928\u093e \u0939\u0948.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 636.4899999999999,
+        "end": 649.79,
+        "text": "\u0906\u092a\u0915\u093e \u092a\u094d\u0930\u0947\u092e\u0940 \u0906\u092a\u0915\u0947 \u092a\u093e\u0938, \u0905\u0917\u0930 \u0938\u091a\u094d\u091a\u093e \u0939\u0948 \u092a\u094d\u0930\u0947\u092e\u0940, \u0924\u094b \u0906\u092a\u0915\u093e \u092e\u094c\u0930\u0940\u0926 \u092f\u0947 \u092a\u094d\u0930\u0936\u0902\u0938\u0915 \u092c\u0928\u0915\u0930 \u0928\u0939\u0940\u0902 \u0906\u0938\u0915\u0924\u093e, \u0906\u092a\u0915\u093e \u092b\u0948\u0928 \u092c\u0928\u0915\u0930 \u0928\u0939\u0940\u0902 \u0906\u0938\u0915\u0924\u093e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 654.45,
+        "end": 659.11,
+        "text": "\u0935\u094b \u0924\u094b \u0906\u092a\u0915\u0947 \u092a\u093e\u0938 \u090f\u0915 \u0924\u0930\u0939 \u0938\u0947 \u0906\u092a\u0915\u093e \u0906\u0932\u094b\u091a\u0915 \u092c\u0928\u0915\u0930 \u0939\u0940 \u0906\u092f\u0947\u0917\u093e.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 660.15,
+        "end": 662.69,
+        "text": "\u091c\u094b \u092d\u0940 \u092c\u093e\u0924 \u0939\u0940 \u0939\u092e\u0947\u0902 \u0905\u0916\u0930 \u0917\u0908, \u091a\u0941\u092c\u0917\u0908 \u092c\u093f\u0932\u094d\u0915\u0941\u0932.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 662.69,
+        "end": 686.45,
+        "text": "\u0915\u093f\u0938\u0915\u093f\u0928 \u0935\u093e\u0932\u093e\u0917\u0932\u0948 \u0915 sword spy",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 686.45,
+        "end": 692.67,
+        "text": "\u0938\u092c\u043e\u0441\u0442\u0438 \u092f\u093e Tillyty ke Sata Liya",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 692.67,
+        "end": 692.67,
+        "text": "",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 695.49,
+        "end": 696.45,
+        "text": "\ufffd treble \u0926\u0947\ufffd drives\u5217\u091f \u0915\u0939\u094b \u0932\u0947\u0917\u093e\u0935?",
+        "pause_after": true,
+        "tonal_change": true
+    },
+    {
+        "start": 697.19,
+        "end": 698.69,
+        "text": "\u091a\u093f\u0938\u094d\u0924\u0947 \u0932\u0947\u0917\u093e\u0935?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 698.69,
+        "end": 700.67,
+        "text": "\u0905\u092a\ub144 berdi, \u0906\u092a \u091f fundraise.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 700.67,
+        "end": 701.95,
+        "text": "\u0914\u0930 \u0924\u0947\u092e \u0938\u0947 \u0932\u093f\u0930 \u0935\u093e\u0932\u093e \u091c\u093e\u0913\u0924\u093e \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 707.6700000000001,
+        "end": 709.51,
+        "text": "\u0924\u093e\u0932\u094d\u0924\u093f\u092b\u064a\u0627\u0907 \u0906\u091c?",
+        "pause_after": true,
+        "tonal_change": true
+    },
+    {
+        "start": 709.79,
+        "end": 710.79,
+        "text": "\ufffd\u0e43\u0e2b\u092a\u0930\u093e\u091cilarly to the mother of men.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 713.6100000000001,
+        "end": 715.45,
+        "text": "\u092c\u094d\u0939\u093e\u0924 \u092d\u0940 \u092e\u094d\u82e6\u0930\u094d\u092a\u091f \u092c \u0939\u092e\u094d\u0925 Xi \u03c3\u03b5 \u091a\u093ezie.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 715.45,
+        "end": 717.41,
+        "text": "\u0915\u093f\u0938\u094d\u0924\u0947 \u0939\u092c \u0935\u093f\u0928\u094d\u0935\u093e\u0930\u094d\u0923\u093e \u092f\u093e \u092d\u0940 \u092a\u093e\u0938\u0924\u094d\u0924\u093f?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 721.73,
+        "end": 722.65,
+        "text": "SP..",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 724.37,
+        "end": 727.01,
+        "text": "\u092d\u0940\u0915\u0932 \u0932\u094b\u0917 \u092a\u0941\u0930\u0947\u091c\u093f\u0928 factions \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 727.01,
+        "end": 744.13,
+        "text": "\u092a\u094d\u0930\u0947\u092e\u094d \u307e\u3059 \u092a\u094d\u0930\u092d\u094d\u0930\u0947\u091c\u093f\u0924\u094d\u0938\u094d\u0938\u0935 \u0928\u0947 \u0927\u0930 \u0915\u0940 \u0932\u094b\u0917 \u0932\u094b\u0917 \u0938 uneven \u092a\u094d\u0930\u092d\u094d\u0930\u0947\u091c\u093f\u0924\u094d\u0938\u094d\u0935 \u092a\u0930 \u0917\u0947\u092a classouri r\u0101hasavwin ko flowers \u092c JabhikMsner dwindy par gab schoole",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 744.13,
+        "end": 752.47,
+        "text": "\u0907\u0938\u0932\u093f\u090f \u092a\u094d\u0930\u0947\u092e\u094d assurance\u0942 \u092c\u0938\u091f\u093e\u0928\u092e\u093e\u092d\u093f\u0924\u094d \u90a3\u0941\u0928\u094d\u0430\u0435\u043c\u0441\u044f sange baas cutting",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 765.4100000000001,
+        "end": 782.45,
+        "text": "\u0935\u094b \u0906\u092a\u0915\u0947 \u0932\u093e\u0916 \u0926\u094b\u0936 \u0939\u0948\u0902, \u0932\u093e\u0916 \u0935\u093f\u0915\u093e\u0930 \u0939\u0948\u0902, \u092b\u093f\u0930 \u092d\u0940 \u0906\u092a \u0909\u0938\u0915\u0940 \u092f\u094b\u0930 \u091c\u093e\u0930 \u0930\u0939\u0947 \u0939\u0942\u0901, \u0924\u094b \u0939\u092e\u093e\u0930\u093e \u0938\u093e\u0927\u093e\u0930\u0923 \u0938\u0902\u0938\u093e\u0930\u0940 \u092e\u0928 \u091a\u093f\u0928\u094d\u091c\u093c\u091f \u092e\u0947\u0902 \u092a\u0921\u093c\u093e \u091c\u093e\u0924\u093e \u0939\u0948, \u090f\u0915\u0926\u092e \u0938\u0915\u094d\u092a\u0915\u093e \u0915\u0947 \u092a\u0941\u091b\u0924\u093e \u0939\u0948, \u0924\u094b \u092b\u093f\u0930 \u0909\u0938\u0915\u0940 \u092f\u094b\u0930 \u091c\u093e\u092f\u0940 \u0916\u093e\u092f\u0915\u094b \u0930\u0939\u0947 \u0939\u0948\u0902, \u091c\u092c \u092a\u0924\u093e \u0930\u0939\u0940 \u0939\u0948, \u0935\u094b \u0924\u0930\u0940\u0935\u093e\u0928 \u0930\u0939\u0940 \u0939\u0948\u0902, \u0924\ufffd",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 789.53,
+        "end": 809.41,
+        "text": "\u092f\u094b \u0924\u0941\u0938\u0930\u0947 \u0935\u093f\u0930\u0924\u094d\u092e\u093e\u0928 \u0907\u0928\u0938\u094d\u0924\u093f\u0925\u0940 \u0915\u0940 \u092b\u0938\u093e\u0901\ufffd instance life crashed into the consumers.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 809.41,
+        "end": 812.43,
+        "text": "\u0924\u094b \u0938\u0915\u094d\u0924 \u092a\u0930\u0924\u093e \u0939\u0948\u0902, \u0935\u094b \u0935\u0918\u0924\u093f\u0930 who leads his personal situation into \u0441\u043b\u0438\u0448\u043a\u043e\u043c",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 813.13,
+        "end": 815.43,
+        "text": "\u0905\u092a \u0907\u0938\u0932\u0940 \u0939\u0948 \u0909\u0938\u0915\u0947 \u092a\u093e\u0938 \u091c\u093e\u0924\u0947 \u0939\u0942\u0901\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 816.37,
+        "end": 818.43,
+        "text": "\u0924\u0941\u092e\u094d\u0939\u0947\u0902 \u0915\u094d\u092f\u093e \u092e\u093f\u0932\u0947\u0917\u093e \u092b\u093f\u0930 \u0926\u0942\u0938\u0930\u0947 \u0915\u094b \u0915\u094d\u092f\u093e\u091c \u0938\u0947 \u091a\u0941\u0921\u093e\u0915\u0930\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 819.53,
+        "end": 822.43,
+        "text": "\u0926\u0947\u0916\u094b \u092d\u0908 \u0905\u092a \u092a\u0942\u091b\u0940 \u0930\u0939\u094b \u0924\u094b \u092c\u0924\u093e \u0926\u0947\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 823.85,
+        "end": 825.43,
+        "text": "\u0935\u094b \u091c\u092c \u0906\u091c\u093e\u0926 \u0939\u094b \u091c\u093e\u090f\u0917\u093e \u0928\u0939\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 826.77,
+        "end": 828.43,
+        "text": "\u0906\u091c\u093e\u0926\u0940 \u0926\u0947\u0916\u0928\u0947 \u092e\u0947\u0902 \u092c\u0921\u093c\u093e \u0905\u0928\u0902\u0926 \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 829.65,
+        "end": 831.25,
+        "text": "\u0909\u0938\u0915\u0940 \u0906\u091c\u093e\u0926\u0940 \u0926\u0947\u0916 \u0915\u0930 \u0924\u0941\u092e\u094d\u0939\u0947\u0902 \u0915\u094d\u092f\u093e \u092e\u093f\u0932\u0947\u0917\u093e?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 832.2900000000001,
+        "end": 834.61,
+        "text": "\u0906\u091c\u093e\u0926\u0940 \u0909\u0938\u0915\u0940 \u092f\u0939 \u0939\u092e\u093e\u0930\u0940 \u0928\u0939\u0940\u0902 \u0939 anderes\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 834.61,
+        "end": 835.69,
+        "text": "\u0924\u0947\u0930\u0940 \u092f\u0939 \u092e\u0947\u0930\u0940 \u0928\u0939\u0940\u0902 \u0939\u03cc\u03c4\u03b5 \u092a\u094b\u0924\u094d\u0924\u0940.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 835.69,
+        "end": 841.41,
+        "text": "\u0906\u091c\u093e\u0926\u0940 \u0905\u091c\u093e\u0926\u0940 \u091c\u093e\u0924\u0947 \u0939\u0948 \u0914\u0930 \u0906\u091c\u093e\u0926\u0940 \u092e\u093e\u0924\u094d\u0930 \u092c\u0926\u093e \u0905\u0928\u0902\u0926 \u0926\u0947\u0924\u0940 \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 841.41,
+        "end": 843.83,
+        "text": "\u0915\u093f\u0938\u0940\u0915\u0947 \u0906\u091c\u093e\u0926\u0940 \u0926\u0947\u0916\u0915\u094b.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 844.25,
+        "end": 846.65,
+        "text": "\u0938\u092c \u0936\u093f\u0915\u0930 \u090f\u0915 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 846.65,
+        "end": 849.73,
+        "text": "\u091c\u092e\u093f\u0928\u0947 \u0905\u0932\u093e\u0917-\u0905\u0932\u093e\u0917 \u0939\u0941\u0924\u0947 \u0939\u0948\u0902 \u091c\u092e\u093f\u0928\u094b\u0902 \u092a\u0930 \u0906\u0938\u094d\u092e\u093e\u0928 \u090f\u0915 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 852.25,
+        "end": 853.99,
+        "text": "\u0938\u092e\u091d \u092e\u0947\u0902 \u0906\u0930\u0939\u0940 \u0939\u0948\u0902 \u092c\u093e\u0924\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 853.99,
+        "end": 857.65,
+        "text": "\u0926\u0942\u0938\u0930\u0947 \u0917\u0940 \u0919\u093c\u094b\u0930 \u0907\u0938\u0932\u0947 \u0928\u0939\u0940\u0902 \u091c\u093e \u0930\u0939\u0947 \u0939\u0948\u0902 \u0915\u094d\u092f\u094b\u0903 \u0915\u093f \u0909\u0938\u094d\u0927\u0940 \u091c\u0948\u0938\u093e \u0939\u0948 \u0935\u0948\u0938\u093e \u0939\u0940 \u092a\u094d\u092f\u093e\u0930\u093e \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 857.65,
+        "end": 858.75,
+        "text": "\u0905\u091c\u0940 \u0915\u0939\u093e\u0902.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 858.75,
+        "end": 862.73,
+        "text": "\u0924\u0941\u0938\u094d\u0930\u093e \u091c\u0948\u0938\u093e \u0939\u0948 \u0935\u0948\u0938\u093e \u0939\u0940 \u0905\u0917\u0930 \u0906\u092a\u0915\u094b \u092a\u094d\u092f\u093e\u0930\u093e \u0932\u0917 \u0930\u0939\u093e \u0939\u0948 \u0924\u094b \u0906\u092a \u0909\u0938\u0915\u0940 \u092f\u094b\u0930 \u091c\u093e \u0930\u0939\u0947 \u0939\u0948\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 862.73,
+        "end": 866.75,
+        "text": "\u0938\u093f\u0930\u094d\u0935 \u0909\u0938\u0915\u093e \u0936\u094b\u0936\u0928 \u0915\u0930\u0928\u0947 \u092d\u094b\u0917\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092c\u093e\u0926 \u092c\u0941\u0930\u0940 \u0932\u0917 \u0930\u0939\u0940 \u0939\u094b \u0924\u094b \u092d\u0940 \u0938\u092e\u091d\u0940\u092f\u0947 \u0915\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 870.63,
+        "end": 873.75,
+        "text": "\u092e\u0948\u0902 \u092f\u0939 \u0928\u0939\u0940\u0902 \u0915\u0939 \u0930\u0939\u093e \u0939\u0942\u0902 \u0915\u093f \u0924\u0941\u0938\u094d\u0930\u0947 \u0915\u0940 \u092f\u094b\u0930 \u091c\u093e \u0939\u094b \u0907\u0938\u0932\u093f\u090f \u0915\u093f",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 874.75,
+        "end": 877.75,
+        "text": "\u0909\u0938\u0915\u0947 \u0928\u092b\u0930\u0924 \u0939\u0948 \u0924\u0941\u092e\u0915\u094b \u092f\u093e \u0909\u0938\u0915\u0947 \u092a\u093e\u0938 \u091c\u093e \u0915\u0930\u0915\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 878.87,
+        "end": 880.51,
+        "text": "\u0909\u0938\u0915\u094b \u0918\u094d\u0930\u0923\u093e \u0915\u0940 \u0926\u094d\u0930\u093f\u0937\u094d\u091f\u0947 \u0938\u0947 \u0926\u0947\u0916\u094b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 880.51,
+        "end": 897.93,
+        "text": "\u0909\u0938\u0915\u0940 \u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u0935\u0908\u0915\u094d\u0924\u093f\u0915\u094d\u0924\u093e \u0939\u0948 \u0909\u0938\u0915\u0940 \u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u0926\u0937\u093e \u0939\u0948, \u0909\u0938\u092e\u0947\u0902 \u0930\u0916\u093e \u0915\u094d\u092f\u093e \u0939\u0948?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 897.93,
+        "end": 900.41,
+        "text": "\u0905\u0930\u093f \u0939\u092e\u093e\u0908 \u0939\u0940 \u0935\u0930\u0924\u094d\u092e\u093e\u0928 \u0926\u0937\u093e \u092e\u0947\u0902 \u0915\u0941\u091b \u0928\u093f\u0930\u0915\u0916\u093e\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 900.41,
+        "end": 903.69,
+        "text": "\u092e\u0947\u0902 \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u0940 \u0935\u0930\u0924\u094d\u092e\u093e\u0928 \u0926\u0937\u093e \u0915\u0947 \u0915\u093e\u0907\u0932 \u0915\u0948\u0938\u0947 \u0939aval\u0940 \ufffdI am nowhere in my wildest state.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 903.75,
+        "end": 905.69,
+        "text": "\u0939\u092e\u093e\u0930\u0947 \u0939\u0940 \u091c\u0938\u094d\u092e \u092e\u0947\u0902 \u0915\u0941\u091b \u0928\u093f\u0930\u0915\u0916\u093e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 905.69,
+        "end": 907.53,
+        "text": "\u092e\u0947\u0902 \u0924\u0941 descon\u0928\u0947 \u0907\u0924\u093e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 908.29,
+        "end": 912.37,
+        "text": "\u0939\u092e \u0925 wtedy\u094d\u092f\u091aAME \u0915\u0948\u0938\u0947 \u0939\u0933\u093e Fortissimo to unit later on I string...",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 912.37,
+        "end": 915.35,
+        "text": "\u0939\u092e \u091c\u093f\u0928 \u091b\u0940\u091c\u094b\u0902 \u0915\u094b \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f opaque \u0938\u094d\u092f futures.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 915.35,
+        "end": 918.35,
+        "text": "\u0939\u092e \u0909\u0928\u094d\u0939\u0940 \u091a\u0940\u091c\u094b\u0902 \u0915\u0947 \u0917\u094d\u0930\u093e\u0939\u0915 \u0915\u0948\u0938\u0947 \u0939\u094b \u091c\u093e\u090f\u0902 \u092d\u093e\u0908?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 920.97,
+        "end": 925.83,
+        "text": "\u0924\u094b \u0910\u0938\u093e \u0928\u0939\u0940\u0902 \u0939\u0948 \u0915\u093f \u0939\u092e \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u0947 \u092a\u093e\u0938 \u0907\u0938\u0932\u093f\u092f\u093e \u0930\u0939\u0947 \u0939\u0948\u0902 \u0915\u093f \u0924\u0941\u092e \u092c\u0921\u093c\u0947 \u0915\u0941\u0937\u0932 \u0939\u094b,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 925.89,
+        "end": 929.35,
+        "text": "\u092c\u0921\u093c\u0947 \u091a\u0924\u0941\u0930 \u0939\u094b, \u092c\u0921\u093c\u0947 \u0938\u0941\u0902\u0926\u0930 \u0939\u094b, \u092c\u0921\u093c\u0947 \u0906\u0915\u0930\u094d\u0937\u0915 \u0939\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 931.07,
+        "end": 934.35,
+        "text": "\u092c\u0921\u093c\u0947 \u092e\u094b\u0939\u093f\u0924 \u0915\u0930\u0924\u0947 \u0939\u094b, \u092d\u093f\u0915\u093e\u0930 \u0935\u093e\u0924\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 938.91,
+        "end": 942.67,
+        "text": "\u0939\u094b \u0924\u094b \u0924\u0941\u092e \u0915\u0941\u091b \u0928\u0939\u0940\u0902 \u0926\u0947\u0916 \u0939\u094b, \u092a\u094d\u0930\u0947\u092e \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0924\u0941\u092e\u0938\u0947,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 942.81,
+        "end": 945.35,
+        "text": "\u0907\u0938\u0940 \u0932\u093f\u090f \u0938\u093e\u092b \u0938\u093e \u092a\u093e\u091f \u092c\u0924\u093e\u090f \u0926\u0947\u0924\u0947 \u0939\u0948\u0902, \u0915\u0941\u091b \u0928\u0939\u0940\u0902 \u0939\u094b \u0924\u0941\u092e,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 948.99,
+        "end": 951.35,
+        "text": "\u090f\u0915\u0926\u092e \u0924\u0941\u0930\u094d\u0923 \u092e\u093e\u0924\u094d\u0930 \u0939\u094b,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 954.65,
+        "end": 960.37,
+        "text": "\u0917\u093e\u0938 \u0915\u0924\u093f\u0928 \u0915\u093e \u091c\u093f\u0938\u094d\u092a\u0930 \u092d\u093e\u0917\u094d\u092f \u092a\u093e\u0935 \u0930\u0915 \u0930\u0915 \u0915\u0930 \u0915\u0947 \u091a\u0932\u0924\u093e \u0930\u0948\u0924\u093e \u0939\u0948,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 961.73,
+        "end": 969.47,
+        "text": "\u0918\u0938 \u0915\u0924\u093f\u0928 \u0915\u093e \u091c\u093f\u0938\u0915\u094b \u0915\u093f\u0937\u094d\u092e\u0924\u093e \u0905\u092a\u0928\u0947 \u092c\u093e\u0930\u0940, \u092c\u0930\u0915\u092e, \u092a\u0939\u0940\u0902 \u0924\u0932\u0947 \u0930\u0949\u0923 \u0926\u0924\u0940 \u0930\u0939\u0924\u0940 \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 969.75,
+        "end": 974.37,
+        "text": "\u0910\u0938\u0947 \u0939\u0940 \u0939\u092e \u0939\u0948 \u0910\u0938\u0947 \u0939\u0940 \u0924\u0941\u092e \u0939\u094b, \u0924\u094b \u092f\u0939 \u0938\u093e\u0925 \u0928\u0939\u0940\u0902 \u0939\u0948 \u0915\u093f \u0924\u0941\u092e\u093e\u0930\u0940 \u0939\u093e\u0932\u0924 \u092e\u0947\u0902 \u0939\u092e \u0915\u094b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 975.05,
+        "end": 977.37,
+        "text": "\u0915\u094c\u0908 \u092c\u0939\u0941\u0924 \u0906\u0915\u0930\u094d\u0937\u0928 \u0939\u0948\u0902.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 981.05,
+        "end": 982.81,
+        "text": "\u0915\u094d\u092f\u094b\u0902\u05d5\u05de\u05e8 \u092b\u093f\u0915\u094d\u092f\u0947 \u0906\ufffdwalk",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 982.81,
+        "end": 982.81,
+        "text": "",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 982.81,
+        "end": 985.47,
+        "text": "\u0905\u092a\u0928\u094d \u0936\u0941\u0924 \u0906\u092a\u0928\u0947 \u0915\u0941\u091b\u094d\u092f\u093e \u0925\u0947 \u05d4\u05d9\u0940\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 985.47,
+        "end": 988.77,
+        "text": "\ufffd...\u0915\u093f \u0935\u0947 \u0915\u0939\u0947\u0902, \u0907\u0938\u0915\u0940 \u0938\u093e\u0925\u093e \u0935\u0947 \u0915 beaconikle \u092a\u093e\u0932\u0928\u0924\u093e\u0908 \u0939\u0948edge",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 988.77,
+        "end": 993.53,
+        "text": "\u0915\u094d\u092f\u094b\u0915irk \u0938\u0947 \u0905 Gasal \u0917\u0932\u092e clean \u0939\u094b \u0935\u0941\u0915\u094dirim",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 993.53,
+        "end": 995.09,
+        "text": "\u091a\u0923 \u0915\u0930\u091c\u093f\u0935\u0940 \u092a\u094d\u0930\u0947\u091c\u093f\u0928\u094d\u093c\u093f\u090fget \u0930\u0938\u094d\u0928\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 995.09,
+        "end": 996.61,
+        "text": "\u0907\u0938\u094d\u0924\u093f \u4ed6\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 996.61,
+        "end": 1006.63,
+        "text": "\u0930\u0930 \u0939\u093f\u0907 \u0935\u093f\u0917\u094d\u0927\u093e\u0924\u0940\u092d\u093e\u0935\u093e\u0930\u091c oxygen \u0905\u0928\u094d \u0939\u0940 prepot disco",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1006.63,
+        "end": 1013.03,
+        "text": "\u0909\u0938\u0930 \u0926\u0947 \u0938\u0902\u092a\u092e\u094d\u0938 \u0915\u093e\u0907\u0926 \u092d\u0940 \u0935\u094b\u0939\u0947 \u0928\u0940\u0935\u094d\u092f\u0939 \u0915\u0947 \u0930\u0926\u094d\u0917\u093e Denn,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1013.85,
+        "end": 1018.91,
+        "text": "\u0907\u0928\u0938\u0947 \u091c\u094b \u0906\u091c\u093e\u0926\u0940 \u092e\u093f\u0932\u0924\u0940 \u0939\u0948 \u0935\u093f\u0915\u094d\u0924\u093f\u0915\u0924 \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u0940, \u0909\u0938\u092e\u0947\u0902 \u0938\u092c \u090f\u0915 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1018.91,
+        "end": 1022.89,
+        "text": "\u0939\u092e \u0935\u094b \u0926\u0947\u0916\u0928\u093e \u091a\u093e\u0924\u0947 \u0939\u0948\u0902, \u0935\u0939\u0940 \u0932\u093e\u0932\u094d\u0938\u093e \u0939\u0948\u0902 \u0939\u092e\u093e\u0930\u0940, \u0935\u0939\u0940 \u0938\u094d\u0935\u093e\u0930\u094d\u0924 \u0939\u0948\u0902 \u0939\u092e\u093e\u0930\u093e,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1023.15,
+        "end": 1027.07,
+        "text": "\u0909\u0938\u0940 \u0926\u093f\u0928 \u0915\u0947 \u0932\u093f\u090f \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u0947 \u092a\u093e\u0938 \u0906\u090f\u0902 \u0939\u0948\u0902, \u092f\u0939\u0940 \u0939\u0938\u094d\u0930\u0924 \u0939\u0948\u0902 \u0939\u092e\u093e\u0930\u0940,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1036.85,
+        "end": 1039.47,
+        "text": "\u0909\u0938\u0915\u0940 \u092a\u094d\u0930\u0942\u091a \u0930\u0939\u0947 \u0939\u0948\u0902, \u0924\u094b \u0924\u0941\u0930\u0902\u0926 \u0907\u0938\u0915\u0940 \u092a\u094d\u0930\u0942\u091a \u0930\u0939\u0947 \u0939\u0948\u0902,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1039.49,
+        "end": 1041.87,
+        "text": "\u0924\u094b \u0924\u0941\u0930\u0902\u0926 \u0907\u0938\u0915\u0940 \u092a\u094d\u0930\u0942\u091a \u0930\u0939\u0947 \u0939\u0948\u0902, \u0924\u094b \u0924\u0941\u0930\u0902\u0926 \u0907\u0938\u0915\u0940 \u092a\u094d\u0930\u0942\u091a \u0930\u0939\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1047.33,
+        "end": 1051.55,
+        "text": "\u0924\u094b \u0924\u0941\u0930\u0902\u0926 \u0907\u0938\u0915\u0940 \u092a\u094d\u0930\u0942\u091a \u0930\u0939\u0947 \u0939\u0948\u0902, \u0924\u094b \u0924\u0941\u0930\u0902\u0926 \u0907\u0938\u0915\u0940 \u092a\u094d\u0930\u0942\u091a \u0930\u0939\u0947 \u0939\u0948\u0902,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1053.27,
+        "end": 1059.67,
+        "text": "\u0905\u092c \u0939\u0940 \u0924\u0941\u092e \u091c\u0948\u0938\u0947 \u0939\u094b, \u0935\u094b \u0924\u0941\u092e\u093e\u0930\u0940 \u0939\u0938\u094d\u0924\u0940 \u0915\u0940 \u0905\u0935\u092e\u093e\u0928\u0928\u093e \u0939\u0948,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1060.11,
+        "end": 1064.31,
+        "text": "\u0924\u0941\u092e \u0905\u092d\u0940 \u0939\u094b \u0928\u0939\u0940\u0902, \u0924\u0941\u092e \u0905\u092d\u0940 \u0905\u092a\u0928\u0947 \u0906\u092a\u0915\u094b \u0921\u094b \u0930\u0939\u0947 \u0939\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1065.69,
+        "end": 1070.13,
+        "text": "\u0924\u0941\u092e \u091c\u094b \u0939\u094b \u0938\u0915\u0924\u0947 \u0939\u094b, \u0939\u092e \u0909\u0938 \u092b\u0942\u0932 \u0915\u094b \u0916\u093f\u0932\u0924\u0947 \u0926\u0947\u0916\u0928\u093e \u091a\u093e\u0924\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1070.33,
+        "end": 1074.45,
+        "text": "\u0924\u0941\u092e \u091c\u093f\u0924\u0928\u093e \u0909\u0921 \u0938\u0915\u0924\u0947 \u0939\u094b, \u0939\u092e \u0909\u0938 \u092a\u0915\u094d\u0937\u0940 \u0915\u0940 \u092a\u0930\u094d\u0935\u093e\u0938 \u0926\u0947\u0916\u0928\u093e \u091a\u093e\u0924\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1075.45,
+        "end": 1081.35,
+        "text": "\u092f\u0939 \u092a\u0930\u093f\u092e \u0939\u0948. \u092a\u0941\u0930\u093f\u092e \u0915\u0947 \u092a\u093e\u0938 \u0906\u0916\u094d\u0937\u0940\u090f\u0924\u0947 \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1081.75,
+        "end": 1099.27,
+        "text": "\u0905\u0938\u0915\u093eoln \u091f\u0941\u092e\u0915\u094b \u0928\u0939\u0940\u0902 \u0939\u094b, \u0924\u0941\u092e \u0906\u0917\u0924\u0947 \u0939\u094b.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1107.19,
+        "end": 1134.43,
+        "text": "\u0924\u094b \u0907\u0938\u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u091f\u093f\u0935\u093e\u0930\u094d\u0923\u093e \u092a\u0930 \u0932\u093e\u0935 \u0939\u094b \u091c\u093e\u092f\u0947\u0917\u093e \u0924\u094b \u0907\u0938\u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u091f\u093f\u0935\u093e\u0930\u094d\u0923\u093e \u092a\u0930 \u0932\u093e\u0935 \u0939\u094b \u091c\u093e\u092f\u0947\u0917\u093e \u0924\u094b \u0907\u0938\u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u091f\u093f\u0935\u093e\u0930\u094d\u0923\u093e \u092a\u0930 \u0932\u093e\u0935 \u0939\u094b \u091c\u093e\u092f\u0947\u0917\u093e \u0924\u094b \u0907\u0938\u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u091f\u093f\u0935\u093e\u0930\u094d\u0923\u093e \u092a\u0930 \u0932\u093e\u0935 \u0939\u094b \u091c\u093e\u092f\u0947\u0917\u093e \u0924\u094b \u0907\u0938\u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u091f\u093f\u0935\u093e\u0930\u094d\u0923\u093e \u092a\u0930 \u0932\u093e\u0935 \u0939\u094b \u091c\u093e\u092f\u0947\u0917\u093e \u0924\u094b",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1134.43,
+        "end": 1139.45,
+        "text": "\u0907\u0938\u0915\u0947 \u092a\u094d\u0930\u0936\u094d\u091f\u093f\u0928\u093e \u0915\u093e \u092f\u0939\u094b\u0902\u0927\u093e asya\u1ea5t \u0932\u0947 tina ka yehonana",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1139.45,
+        "end": 1143.21,
+        "text": "\u092a\u094d\u0930\u0936\u091f\u093f\u092f\u0938\u092e\u0924\u094d\u0915\u0935\u0942\u0938\u094d\u092e\u093e\u0930\u094d\u0923\u093e \u0915\u0940 \u0938\u093f\u0928\u0928\u093e \u0936\u0930\u094d\u0932\u093f \u0938\u092e\u094d\u092f\u0947 \u0915\u0940",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1143.21,
+        "end": 1143.71,
+        "text": "\u0939\u093e\u0901 \u0909\u0938\u0928\u0947 \u0936\u0947\u0936\u0947\u0936\u0915\u0940\u0930\u093e\u094b\u0928 \u0926\u093f\u0930\u0942\u0902\u0917\u0940 anymore",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1143.71,
+        "end": 1147.89,
+        "text": "\u0924\u094b \u0907\u0938\u0915\u0947 \u092d\u093e\u0926 \u0938\u0947 \u0928\u093e\u0935\u093e\u0930",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1147.89,
+        "end": 1160.65,
+        "text": "\u092a\u094d\u0930\u0947\u0936\u094d\u092f\u0940 \u091c\u0930\u094d\u0933 \u0939\u093e cultura \u0906\u092aleb hotse jeere jaari Comics",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1166.07,
+        "end": 1166.71,
+        "text": "\u091c\u0939\u0932 \u0917\u0941\u0906\u0901\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1166.71,
+        "end": 1168.77,
+        "text": "\u0932\u094b\u0917 \u0915\u0939\u0924\u0947 \u0939\u0948\u0902, \u0938\u091a\u094d\u091a\u093e \u092a\u094d\u092f\u093e\u0930 \u092e\u093f\u0932\u0924\u093e \u0928\u0939\u0940\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1168.77,
+        "end": 1176.21,
+        "text": "\u092e\u0948\u0902 \u0915\u0939\u0924\u093e \u0939\u0941\u0902, \u0938\u091a\u094d\u091a\u093e \u092a\u094d\u092f\u093e\u0930 \u0924\u0941\u092e\u0938\u0947 \u092a\u094d\u0930\u0926\u093e\u091c \u0924\u094b \u0925\u094b\u0924\u093e \u0928\u0939\u0940\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1176.21,
+        "end": 1178.41,
+        "text": "\u092e\u093f\u0932 \u0924\u094b \u0906\u091c \u091c\u093e\u092f\u0947, \u091c\u0939\u0932 \u0932\u094b\u0917\u0947?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 1181.27,
+        "end": 1184.07,
+        "text": "\u092c\u0921\u093c\u0947 \u0905\u092b\u094d\u0938\u093e\u0928\u0947 \u0932\u093f\u0916\u094d\u092f \u091c\u093e\u0924\u0947 \u0939\u0948\u0902,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1184.29,
+        "end": 1186.77,
+        "text": "\u0936\u093e\u0939\u0930\u094b\u0902 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928 \u090f\u0939\u0940 \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948\u0902 \u0907\u0938\u0940 \u092d\u093e\u0924 \u092a\u0930,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1186.77,
+        "end": 1188.77,
+        "text": "\u0915\u093f \u0939\u092e \u0924\u094b \u092c\u0921\u093c\u0947 \u0915\u093e\u092c\u093f\u0932 \u0925\u0947 \u092a\u0930",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1190.6899999999998,
+        "end": 1192.77,
+        "text": "\u0915\u092e\u094d\u092d\u0916\u0924\u094d \u091c\u093f\u0928\u094d\u0926\u0917\u0940 \u0928\u0947 \u0927\u094b\u0915\u093e \u0926\u0947 \u0926\u093f\u092f\u093e",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1193.33,
+        "end": 1194.77,
+        "text": "\u0939\u092e\u0947\u0902 \u0938\u091a\u094d\u091a\u093e \u092a\u094d\u092f\u093e\u0930 \u092e\u093f\u0932\u093e \u0928\u0939\u0940\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1199.49,
+        "end": 1200.17,
+        "text": "\u091c\u0942\u091f\u093e",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1200.17,
+        "end": 1202.77,
+        "text": "\u0924\u094b \u0907\u0938 \u0932\u093e\u092f\u0915 \u0939\u0948 \u0915\u093f \u0938\u091a\u094d\u091a\u093e \u092a\u094d\u092f\u093e\u0930 \u091c\u0947\u0932 \u0932\u0947\u0924\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1204.01,
+        "end": 1206.77,
+        "text": "\u0915\u093e\u092c\u093f\u0932\u093f\u092f\u0924 \u092d\u0940 \u091b\u0941\u0921\u093c \u0926\u094b, \u0928\u093f\u092f\u0924 \u0939\u0948",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1208.77,
+        "end": 1210.55,
+        "text": "\u0938\u091a\u094d\u091a\u0947 \u092a\u094d\u0930\u0947\u092e\u0940 \u0915\u0947 \u0938\u093e\u092e\u0928\u0947",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1210.55,
+        "end": 1212.97,
+        "text": "\u0926\u094b \u0926\u093f\u0928 \u0928\u0939\u0940\u0902 \u0916\u0921\u093c\u0947 \u0939\u094b \u092a\u093e\u0909\u0917\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1216.33,
+        "end": 1218.17,
+        "text": "\u092d\u093e\u0917 \u0932\u094b\u0917\u0947",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1218.17,
+        "end": 1220.55,
+        "text": "\u0914\u0930 \u092c\u0924\u093e\u0909\u0917\u0947 \u092d\u093e\u0917\u0928\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1222.33,
+        "end": 1224.17,
+        "text": "\u0909\u0938\u0947 \u092e\u093e\u0930\u094b\u0917\u0947",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1224.17,
+        "end": 1226.55,
+        "text": "\u0909\u0938\u0947 \u092e\u093e\u0930 \u0915\u0947 \u092d\u093e\u0917 \u0932\u094b\u0917\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1230.55,
+        "end": 1232.13,
+        "text": "\u0939\u092e\u0947\u0902 \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u091a\u093e\u0939\u093f\u090f",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1233.3899999999999,
+        "end": 1235.81,
+        "text": "\u0939\u092e\u0947\u0902 \u092d\u094d\u0930\u092e \u091a\u093e\u0939\u093f\u090f",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1237.0700000000002,
+        "end": 1239.97,
+        "text": "\u0939\u092e\u0947\u0902 \u0921\u094bvelope\u093e \u091a\u093e\u0939\u093f\u090f",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1242.8500000000001,
+        "end": 1244.79,
+        "text": "\u0939\u092e\u0947\u0902 \u091a\u093e\u0939\u093f\u0902 \u090f\u092a\u0915\u094b \u0907\u0938\u30fc\u3093 \u091c\u094b",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1244.79,
+        "end": 1246.81,
+        "text": "\u0939\u092e\u0947boo\u0902 \u0938\u0930\u094d\u0925 \u0936\u0941\u0930\u094d\u092a luck \u092c\u093e\u0917\u093c\u093f\u092f\u093e \u0906\u0915 \u091f\u094b gunsar\ufffd\ufffd Dhoku Person",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1247.77,
+        "end": 1249.17,
+        "text": "\u0939\u092e\u0947\u0902 \u091a\u093e\u0939\u093f\u092f\u0947 \u092a\u0947\u0928\u093e \u092a\u094d\u0930\u092c victorious \u092a\u094d\u0930\u092d\u0930 \u0905\u0938\u094d\u091f\u094d\u0938 Utah",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1249.17,
+        "end": 1250.63,
+        "text": "\u0939\u092e\u0947\u0902 \u0930\u0902\u0917\u0940\u0928 \u0938\u092a\u094d\u0928\u094b\u0902 \u0936\u0915\u093f\u0932 \u091a\u093f\u0932\u094d\u0915\u0947 \u092a\u0930BN\u0930\u094d\u091a\u094b\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1250.63,
+        "end": 1252.43,
+        "text": "onsera ke richak dukar shalke parown",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1255.81,
+        "end": 1257.53,
+        "text": "\u0906\u0930\u0947 \u0928 dla, Roland",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1258.29,
+        "end": 1265.27,
+        "text": "\u0924\u0941\u092e \u0915\u0939\u093e\u0902 \u092e\u0915\u094d\u0915\u093e\u0930 \u0939\u094b, \u0905\u0930\u0947 \u0928\u0939\u0940\u0902 \u0924\u0941\u092e \u0915\u0939\u093e\u0902 \u0918\u0942\u0938 Khor \u0939\u094b & \u0905\u0930\u0947 \u0928\u0939\u0940\u0902 sweet",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1265.27,
+        "end": 1271.53,
+        "text": "\u0924\u0941\u092e\u093e\u0930\u0940 \u0915\u092e\u0930 \u0915\u0939\u093e\u0902 \u0915\u092e\u0930\u093e \u0939\u094b \u0930\u0939\u0940 \u0939\u0948, \u0924\u0941\u092e \u0934\u0938\u0947 \u0916\u0941\u092a\u094d\u0938\u0941\u0930\u0924 \u0915\u094b\u0923?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 1272.27,
+        "end": 1277.05,
+        "text": "\u0924\u0941\u092e \u0938\u0947 \u0917\u0941\u0923\u093f \u0915\u094b\u0928? \u0924\u0941\u092e \u0938\u0947 \u0935\u093f\u0927\u094d\u0935\u093e\u0928 \u0915\u094b\u0928? \u0924\u0941\u092e \u0938\u0947 \u092c\u0922\u094d\u0930 \u0915\u094b\u0902?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 1280.5500000000002,
+        "end": 1283.37,
+        "text": "\u0939\u092e\u0947\u0902 \u091a\u093e\u0939\u0940 \u0939wen \u0915\u0941\u0907 \u0910\u0938\u093e \u091c\u094b \u0939\u092e \u0938\u0947 \u0915\u0939\u0947\u0902 \u0915\u093f",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1283.37,
+        "end": 1286.37,
+        "text": "\u0924\u094b \u0924\u0941\u092e \u091c\u0948\u0938\u0947 \u092d\u0940 \u0939\u094b, \u0939\u092e\u093e\u0930\u0947 \u0932\u093f\u090f \u0924\u094b \u0924\u0941\u092e \u0939\u0940 \u0939\u094b",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1287.69,
+        "end": 1290.37,
+        "text": "\u0939\u092e\u0947\u0902 \u091a\u093e\u0939\u093f\u092f\u0947 \u0915\u094b\u0908 \u091c\u094b \u0915\u0939\u0947\u0902, \u0905\u0939\u093e\u0901",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1291.95,
+        "end": 1294.37,
+        "text": "\u0924\u0941\u092e\u093e\u0930\u0940 \u0939\u0930 \u0916\u094b\u091f \u092e\u0928\u094d\u091c\u0942\u0930 \u0939\u0948",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1300.8700000000001,
+        "end": 1304.07,
+        "text": "\u0938\u093e\u091c\u093c\u0947\u0936 \u0939\u094b\u0924\u0940 \u0939\u0948, \u0939\u092e\u0947\u0902 \u092a\u0924\u093e \u0939\u094b\u0924\u093e \u0939\u0948 \u0915\u093f",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1304.07,
+        "end": 1308.59,
+        "text": "\u091c\u092c \u0924\u0915 \u0939\u092e \u0909\u0938\u0915\u0940 \u0916\u094b\u091f \u0928\u0939\u0940\u0902 \u092e\u0928\u094d\u091c\u0942\u0930 \u0915\u0930\u0947\u0902\u0917\u0947, \u0909\u091c\u093e\u092e\u093e\u0930\u0940 \u0928\u0939\u0940\u0902 \u0915\u0930\u0947\u0917\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1308.59,
+        "end": 1313.65,
+        "text": "\u0939\u092forters\u093e\u0928\u093e \u0917\u0941\u0922\u092e\u094d\u0939\u0924\u0947 \u092f\u0939 \u091a\u093e\u0939\u093f \u5c31 \u0930\u0939 \u043c\u043e\u0436\u0435\u0448\u044c, \u0914\u0930 \u0906\u091a \u092a\u0930 putha ke gun Thus, whenever we make ohh efforts to improve",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1315.0700000000002,
+        "end": 1316.13,
+        "text": "\u0939\u092e\u093e\u0930\u0947 pehatne ek to improve",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1316.13,
+        "end": 1318.05,
+        "text": "\u0939\u092e\u0947\u0902 \u092a\u0947\u091c\u093c\u0947 attentive \u0915\u093e\u0908 \u0918\u0941\u0922\u093c \u0939\u094b, \u091c\u092c\u094d \u092e\u093f\u0932\u094d\u0932\u0947\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1318.05,
+        "end": 1325.37,
+        "text": "\u0939\u092e\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u0939\u094d\u092f\u0924\u093e \u092a\u094d\u0930\u0915\u093e\u0908 \u0930\u0939\u093e \uc190 smartphone go over his phone",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1330.5900000000001,
+        "end": 1337.83,
+        "text": "\u0939\u092e\u093e\u0930\u0947 \u090f\u0915 \u0932\u093f\u090f \u0938\u094d\u0935\u0938\u094d\u0925\u093e\u0928 \u092f\u093e Kyamey iOS ka lei Police",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1337.83,
+        "end": 1337.83,
+        "text": "",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1337.83,
+        "end": 1338.57,
+        "text": "\u0928\u0939\u0940\u0902 \u0915\u094d\u092f\u093e \u0915\u093e\u0908 \u091b\u093e heats hu under!",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 1338.57,
+        "end": 1341.59,
+        "text": "\u0936\u0915\u094d\u0939\u0947 \u0915\u0940 \u092c\u0939\u0924\u0930\u0940 \u0905\u092a\u0928\u0947 \u092c\u0939\u0941\u0917 \u0915\u0947 \u0916\u093e\u092e \u0906\u0924\u0940 \u0939\u0948\u0902.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1343.95,
+        "end": 1346.13,
+        "text": "\u092e\u0942\u091f\u092e\u0941\u0930\u094d\u0930 \u0915\u0947 \u0932\u093f\u090f \u0915\u093f\u0938\u0940 \u0915\u0940",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1346.13,
+        "end": 1349.35,
+        "text": "\u092e\u094b\u0924\u0947 \u092a\u0948\u0938\u0947 \u0915\u093f \u0928\u094c\u0916\u0930\u0940 \u0932\u0915 \u091c\u093e\u090f \u092d\u093f\u0935\u0940 \u0915\u094b\u0936 \u0939\u094b \u091c\u093e\u090f\u0917\u0940,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1350.89,
+        "end": 1352.8899999999999,
+        "text": "\u0914\u0930 \u092e\u094b\u0924\u0947 \u092a\u0948\u0938\u0947 \u0915\u0940 \u0928\u0939\u0940\u0902 \u092d\u0940 \u0932\u0917\u0940 \u0939\u0948\u0902,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1353.51,
+        "end": 1356.51,
+        "text": "\u0924\u094b \u0917\u0942\u0938 \u0935\u094b \u092e\u0924\u0940 \u0932\u093e\u0924\u093e \u0939\u0948\u0902, \u0918\u0930\u0935\u093e\u0932\u0947 \u0916\u094b\u091b \u0930\u0939\u0947\u0901\u0917\u0947.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1356.81,
+        "end": 1358.37,
+        "text": "\u092f\u0947 \u092c\u0939\u0924\u0930\u0940 \u0925\u094b\u0921\u093c dus \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1358.37,
+        "end": 1361.07,
+        "text": "\u092f\u0947 \u0924\u094b \u092d\u094b\u0917\u0928\u0947 \u0915\u093e \u0907\u0902\u0924\u091c\u093e\u092e \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1363.41,
+        "end": 1366.6699999999998,
+        "text": "\u0935\u093e\u0938\u094d\u0924\u0935\u093f\u0915 \u0924\u0930\u0915\u094d\u0915\u0940 \u091c\u092c \u0939\u094b \u0930\u0939\u0940 \u0939\u094b\u0917\u0940 \u0906\u092a\u0915\u0940 \u0905\u0902\u0926\u094d\u0930\u0942\u0928\u0940 \u0924\u0930\u0915\u094d\u0915\u0940\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1367.61,
+        "end": 1370.87,
+        "text": "\u0924\u094b \u0926\u0947\u0916\u093f\u092f\u0947\u0917\u093e \u0915\u093f \u0906\u092a \u0938\u0947 \u0915\u093f\u0924\u0928\u0947 \u0932\u094b\u0917 \u0924\u0941\u0930\u0902\u0926 \u0924\u0941\u0930\u0941\u0938\u094d\u0935\u093e \u0939\u094b \u091c\u093e\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1375.23,
+        "end": 1378.1699999999998,
+        "text": "\u0906\u092a \u092d\u0939\u0941\u0924 \u0938\u093e\u0930\u0940 \u0915\u092e\u093e\u0908 \u0915\u0930\u0928\u0947 \u0932\u0917\u0947\u0902\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1378.17,
+        "end": 1383.17,
+        "text": "\u091c\u093e\u0939\u0947 \u0915\u093e\u0932\u0940 \u0915\u092e\u093e\u0908 \u0939\u094b \u0914\u0930 \u0909\u0938\u0938\u0947 \u0917\u0930 \u092a\u0930 \u092d\u094b\u0917\u0928\u0947 \u0915\u0947 \u0938\u093e\u0927\u0928 \u0915\u0930\u0947\u0902 \u0915\u0930\u0928\u0947 \u0932\u0917\u0947\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1384.09,
+        "end": 1385.47,
+        "text": "\u0917\u0930\u094d\u0935\u093e\u0932\u0947 \u0916\u0941\u0936 \u0930\u0939\u0947\u0902\u0917\u0947\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1387.05,
+        "end": 1391.47,
+        "text": "\u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0905\u092d\u0940 \u0905\u092d \u091c\u094b \u0915\u0941\u091b \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0935\u094b \u0938\u0940\u0926\u0947 \u0938\u0940\u0926\u0947 \u0909\u0928\u0915\u0947 \u092d\u094b\u0917 \u0915\u0947 \u092d\u0940 \u0924\u094b \u0915\u093e\u092e \u0906\u092f\u0947\u0917\u093e\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1394.69,
+        "end": 1396.45,
+        "text": "\u0935\u0948\u0902\u0927\u0935\u0935\u0941\u0932\u0947 \u092e\u0947\u0902 \u092a\u0930 \u0939\u0948\u0902\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1396.45,
+        "end": 1397.21,
+        "text": "\u0915\u093f\u0938\u094d\u0924\u0947 \u0915\u093f\u0938\u094d\u0924\u0947 \u0915\u091c\u0940\u0902 \u0915\u0947 \u092a\u0939\u0941\u0935 \u0939\u094b.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1397.21,
+        "end": 1398.67,
+        "text": "\u092a\u093f\u0915\u093e\u0908\u0921\u093f\u0924\u093f\u0915 \u092e\u0947\u0902 \u0915\u0940 \u092a\u0930 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1398.67,
+        "end": 1406.03,
+        "text": "\u0935\u094b \u0938\u092e\u091d Jill Rose laurel really.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1406.03,
+        "end": 1410.87,
+        "text": "\ufffd\uccd0 \uce58\ufffd\u0902\u0925\u0930\u0940 \u0915\u0947 \u0939\u0942\u0901 \u0924\u094b \u041c\u0438\u0928 \u092a\u0939\u0941\u0935 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1410.87,
+        "end": 1412.31,
+        "text": "\u0939\u093e dictator thief.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1412.31,
+        "end": 1418.11,
+        "text": "\u0915\u0941\u091b \u091b\u0924\u094d\u0936 \ufffd\u0422\u0430\u043a\uc2a4\ufffd\u0928\u094d\u0939 \u0906\u092f\u0947 gaat\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1420.2900000000002,
+        "end": 1421.31,
+        "text": "\u092e\u093f\u0902\u0928\u0935\u0938\u094d\u0926\u094d\u0930\u093e \u091f\u094d\u0930\u0923\u0942 r\u00e9v \u0907\u0930 \u091a\u093e\u092a\u092d\u0924\u093f \ucd1d\u094d\u0917\u0947\u0938 \ufffd econso",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1422.77,
+        "end": 1426.31,
+        "text": "\u0924\u0941\u092e \u0935\u094b \u0939\u094b \u091c\u093e\u0913 \u091c\u094b \u0939\u094b\u0928\u093e \u0928\u093f\u092f\u0924 \u0939\u0948 \u0924\u0941\u092e\u093e\u0930\u0940",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1429.2900000000002,
+        "end": 1432.31,
+        "text": "\u092a\u0915\u091f \u0939\u094b \u091c\u093e\u0913 \u092c\u093f\u0932\u0915\u0941\u0932, \u0916\u093f\u0932 \u091c\u093e\u0913 \u092a\u0942\u0932 \u0915\u0940 \u0924\u0930\u0939",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1435.43,
+        "end": 1438.79,
+        "text": "\u0939\u092e \u0909\u0938\u0940 \u092e\u0947\u0902 \u0938\u0902\u0924\u0941\u0937\u094d\u091f \u0939\u0948\u0902, \u0935\u0947 \u0939\u0940 \u0939\u092e\u093e\u0930\u093e \u0932\u0915\u094d\u0937 \u0939\u0948",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1438.79,
+        "end": 1441.31,
+        "text": "\u0910\u0938\u093e \u0915\u094b\u0908 \u092e\u093f\u0932 \u091c\u093e\u090f \u0924\u094b \u091c\u093e\u0928\u093f\u092f\u0947\u0917\u093e \u0915\u093f \u092a\u094d\u0930\u0947\u092e\u0940 \u0939\u0948\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1444.77,
+        "end": 1450.05,
+        "text": "\u0924\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u091c\u094b \u0938\u092c\u0938\u0947 \u092c\u093f\u0930\u0932\u0940 \u091c\u0940\u091c \u0939\u0948",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1450.05,
+        "end": 1464.05,
+        "text": "\u0905\u0928\u0941\u092a\u0932\u092c\u0926 \u091a\u0940\u091c \u0939\u0948\u0902, \u0932\u093f\u090f \u0938\u0947 \u0939\u094b\u0908 \u0928\u093e, \u090f\u0915\u094d\u0926\u092e \u0935\u093f\u0932\u0942\u092a\u094d\u0924, \u0905\u092a\u094d\u0930\u093e\u092a\u094d\u092f\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1468.87,
+        "end": 1473.05,
+        "text": "\u0909\u0938\u0915\u093e \u0928\u093e\u092e \u092a\u094d\u0930\u0947\u092e \u0939\u0948\u0902",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1475.49,
+        "end": 1491.05,
+        "text": "\u0914\u0930 \u092e\u091c\u093e\u0917 \u0915\u0940 \u092c\u093e\u0924 \u092f\u0947 \u0915\u093f \u091c\u093f\u0938\u0915\u094b \u0926\u0947\u0916\u094b \u0909\u0938\u0915\u094b \u092a\u094d\u092f\u093e\u0930 \u0939\u0941\u0906 \u092a\u0921\u093c\u093e \u0939\u0948",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1493.59,
+        "end": 1498.43,
+        "text": "16-16 \u0938\u093e\u0932 \u0915\u0947 \u0932\u094c\u0921\u093c\u0947 \u0906\u0936\u093f\u0915 \u0939\u0941\u0908 \u092a\u0921\u093c\u0947 \u0939\u0948\u0902",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1501.73,
+        "end": 1505.91,
+        "text": "\u091c\u092c \u0938\u0947 \u092b\u0949\u0902\u0921\u0947\u0936\u0928 \u0928\u0947 \u091f\u093f\u0915 \u091f\u0949\u0915 \u092a\u0947 \u0906\u0916\u093e\u0902\u091f \u092c\u0928\u093e\u092f\u093e \u0939\u0948",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1506.43,
+        "end": 1511.39,
+        "text": "\u092e\u0948\u0902 \u0924\u094b \u0939\u0948\u0930\u0924 \u092e\u0947\u0902 \u0939\u0942\u0902, \u0907\u0924\u0928\u093e \u092a\u094d\u092f\u093e\u0930",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1511.39,
+        "end": 1517.43,
+        "text": "\u092f\u0947 \u0938\u0902\u0938\u093e\u0930 \u0939\u0948, \u092f\u0947 \u0938\u0942\u0930\u094d\u0917, \u092f\u0939\u093e\u0901 \u0924\u094b \u0938\u092c \u092a\u094d\u0930\u0947\u092e\u0940 \u0939\u0948\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1519.29,
+        "end": 1523.59,
+        "text": "\u090f\u0915 \u0938\u0947 \u090f\u0915 \u091c\u0932\u0940\u0932, \u0932\u0941\u091a\u094d\u091b\u0947, \u0932\u092b\u0902\u0917\u0947, \u0917\u092e\u093e\u0930",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1523.59,
+        "end": 1528.61,
+        "text": "\u0932\u0947\u0915\u093f\u0928 \u0906\u0924\u093e \u0939\u0948 \u0938\u092c \u0915\u094b \u092a\u094d\u092f\u093e\u0930, \u0915\u094d\u092f\u093e \u092c\u093e\u0924 \u0939\u0948 \u0906\u092a",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1531.11,
+        "end": 1536.43,
+        "text": "\u092e\u0942\u0926 \u0939\u094b\u0928\u0947 \u0915\u0940 \u0924\u092e\u0940\u091c \u0928\u0939\u0940\u0902, \u0906\u0936\u093f\u0915\u0940 \u091a\u0930\u092e \u092a\u0947 \u0939\u0948\u0902",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1540.15,
+        "end": 1542.43,
+        "text": "\u0914\u0930 \u0909\u0928\u0915\u094b \u0926\u0947\u0916\u0928\u0947 \u0935\u093e\u0932\u0947 \u092d\u0940 \u0910\u0938\u0947 \u0939\u0940",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1543.5700000000002,
+        "end": 1550.07,
+        "text": "\u0909\u0928\u0915\u093e \u092a\u094d\u092f\u093e\u0930 \u0926\u0947\u0916\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f, \u092e\u093f\u0932\u094d\u092f\u0928\u094d\u0938 \u092e\u0947\u0902 \u092a\u094d\u092f\u093e\u0930\u0947 \u0915\u0924\u093e\u0930\u092c\u0926 \u0916\u0921\u093c\u0947 \u0939\u0942\u090f \u0939\u0948\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1550.07,
+        "end": 1553.43,
+        "text": "\u0909\u0928\u0915\u094b \u091c\u093f\u0924\u0928\u0947 \u0939\u0948\u0902, \u0909\u0938\u0915\u094b \u092a\u094d\u092f\u093e\u0930 \u0939\u0940 \u092c\u0930\u0938\u093e \u0930\u0939\u0947 \u0939\u0948\u0902, \u092f\u0939 \u092c\u0930\u0938\u093e \u0930\u0939\u0940 \u0939\u0948\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1556.49,
+        "end": 1560.89,
+        "text": "\u0909\u0928\u0915\u094b \u092a\u0915\u093e \u092a\u0924\u093e \u0939\u0948, \u0907\u0938\u092e\u0947\u0902 \u0938\u0947 \u0924\u0940\u0928 \u091a\u094c\u0925\u093e\u0908",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1561.99,
+        "end": 1565.43,
+        "text": "\u092c\u093e\u0930\u0939\u0935\u0940 \u092a\u093e\u0938 \u0928\u0939\u0940\u0902 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948, \u0915\u0930\u0947 \u092d\u0940 \u0928\u0939\u0940\u0902 \u0939\u094b\u0902\u0917\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1568.39,
+        "end": 1573.45,
+        "text": "\u092a\u0930\u0940\u0915\u094d\u091b\u093e \u091c\u092c \u0906\u0924\u0940 \u0939\u094b\u0917\u0940 \u0938\u0930 \u092a\u0947 \u0924\u094b \u0915\u0939\u0924\u0947 \u0939\u094b\u0902\u0917\u0947 \u0928\u0915\u0932 \u0915\u093e \u0915\u0941\u091b \u0939\u0948, \u091c\u0941\u0917\u093e\u0921",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1575.01,
+        "end": 1579.37,
+        "text": "\u0935\u094b \u091c\u0941\u0917\u093e\u0921 \u092d\u0940 \u0909\u0928\u0915\u094b \u0909\u0928\u0915\u0947 \u092a\u094d\u0930\u0947\u092e\u0940 \u091c\u0928\u0940 \u0915\u0930\u093e \u0926\u0947\u0924\u0947 \u0939\u094b\u0902\u0917\u0947",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1580.71,
+        "end": 1585.55,
+        "text": "\u0915\u094b\u0908 \u091c\u093f\u0928\u094d\u0926\u093f\u0917\u0940 \u092e\u0947\u0902 \u0915\u093e\u092c\u093f\u0932\u093f\u092f\u0924 \u0928\u0939\u0940\u0902, \u0915\u094b\u0908 \u0905\u0902\u0924\u0930 \u0926\u094d\u0930\u093f\u0937\u094d\u091f\u093f \u0928\u0939\u0940\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1585.55,
+        "end": 1589.43,
+        "text": "\u092c\u0939\u0924\u0930 \u0939\u094b\u0928\u0947 \u0915\u094b\u0908 \u0932\u0932\u0915 \u0928\u0939\u0940\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1592.81,
+        "end": 1596.53,
+        "text": "\u0932\u093f\u090f\u0915\u093f\u0928 \u0906\u0936\u0915\u0940 \u092a\u0930\u094d\u0935\u093e\u0928 \u091a\u0921\u093f \u0939\u0941\u0908 \u0939\u0948, \u0917\u091c\u092c",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1598.51,
+        "end": 1604.97,
+        "text": "\u092c\u093e\u0932 \u0930\u0902\u0917\u093e \u0930\u0916\u0947 \u0939\u0948\u0902",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1606.97,
+        "end": 1609.79,
+        "text": "\u091c\u0948\u0938\u0915\u093f \u092e\u0943\u093c\u0917\u093e \u0917\u094b\u092e \u0930\u093e\u0913",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1610.93,
+        "end": 1613.89,
+        "text": "\u0906\u0926\u0947 \u092a\u0902\u0915 \u0909\u0938\u0928\u0947 \u0939\u0930\u0947 \u0930\u0902\u0917 \u0930\u0916\u0947 \u0939\u094b\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1620.23,
+        "end": 1624.43,
+        "text": "\u0915\u0948\u0938\u0947 \u092c\u093e\u0908? \u0924\u0941\u092e\u094d\u0939\u0947\u0902 \u0915\u0941\u091b \u0928\u0939\u0940\u0902 \u0906\u0924\u093e, \u0924\u0941\u092e\u094d\u0939\u0947\u0902 \u092a\u094d\u092f\u093e\u0930 \u0915\u0948\u0938\u0947 \u0906\u0917\u092f\u093e?",
+        "pause_after": true,
+        "tonal_change": true
+    },
+    {
+        "start": 1630.0300000000002,
+        "end": 1632.25,
+        "text": "\u0915\u0939\u0924\u0947 \u0939\u0948\u0902, \u0906\u092a \u0915\u094d\u092f\u093e \u091c\u093e\u0928\u0947 \u0939\u0948\u0902 \u0905\u0936\u093e\u0930 \u091c\u0940?",
+        "pause_after": true,
+        "tonal_change": true
+    },
+    {
+        "start": 1633.19,
+        "end": 1635.09,
+        "text": "\u0909\u092e\u0930 \u092e\u0947\u0902 \u0906\u092a \u092c\u0921\u093c\u0947 \u0939\u094b\u0902\u0917\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1636.5100000000002,
+        "end": 1639.31,
+        "text": "\u092a\u0930 \u0915\u093f\u0938\u094d\u0938\u0947 \u0924\u094b \u0939\u092e\u093e\u0930\u0947 \u0939\u0940 \u0932\u092e\u092c\u0947-\u0932\u092e\u092c\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1640.97,
+        "end": 1643.43,
+        "text": "\u0906\u092a\u0928\u0947 \u092c\u0939\u0941\u0924 \u0915\u0941\u091b \u0915\u093f\u092f\u093e \u0939\u094b\u0917\u093e",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1644.73,
+        "end": 1648.43,
+        "text": "\u092a\u0930 \u092c\u0940\u0938 \u0915\u0940 \u092e\u0930 \u092e\u0947\u0902 \u0939\u0940 \u091c\u094b \u0915\u0941\u091b \u0939\u092e\u0928\u0947 \u0915\u0930 \u0921\u093c\u093e\u0932\u093e \u0939\u0948, \u0909\u0920\u094b\u0921\u0940 \u0915\u0930\u093e \u0939\u094b\u0917\u093e \u0906\u092a\u0928\u0947",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1651.05,
+        "end": 1652.09,
+        "text": "\u0926\u0930\u0942\u0930 \u092c\u0947\u091f\u093e",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1656.39,
+        "end": 1658.43,
+        "text": "\u0905\u092e\u093e\u0930\u0940 \u0921\u093e\u0921\u0940 \u0924\u094b \u0905\u092e\u0947\u0936\u093e \u0938\u0939\u0940 \u0938\u092b\u0947\u0924 \u0925\u0940",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1672.01,
+        "end": 1672.69,
+        "text": "\u0905\u092e\u094d\u092e\u093e\u0930\u0940 \u0915\u0941\u091b!",
+        "pause_after": true,
+        "tonal_change": true
+    },
+    {
+        "start": 1672.69,
+        "end": 1677.87,
+        "text": "\u092f\u0939\u0938\u0947 \u0925\u094b\u0921\u093c\u0947 \u0939\u0940 \u092a\u094d\u092f\u093e\u0930 \u0939\u094b\u0924\u093e \u0939\u0948, \u0915\u093f \u0939\u094b \u0918\u092f\u093e, \u092e\u0941\u091d\u0947 \u092d\u0940 \u0939\u094b \u0917\u092f\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1677.87,
+        "end": 1679.57,
+        "text": "\u0915\u094d\u092f\u093e \u0939\u0941\u0906?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 1682.07,
+        "end": 1683.43,
+        "text": "\u092a\u094d\u092f\u093e\u0930 \u0939\u094b\u0917\u092f\u093e",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1683.43,
+        "end": 1686.85,
+        "text": "\u0915\u0948\u0938\u0947 \u0939\u0941\u0906? \u0913\u0902\u0939\u0947\u0902 \u092a\u094d\u0930\u093e\u0915\u094d\u0930\u0924\u093f\u0915 \u0939\u0948 \u0928\u094c?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 1688.77,
+        "end": 1693.77,
+        "text": "\u0935\u094b \u091c\u094b \u092a\u094d\u0930\u0915\u094d\u0930\u0924\u093f\u0917\u0924 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947 \u0939\u094b \u091c\u093e\u090f \u0914\u0930 \u091c\u0932\u094d\u0926\u0940-\u091c\u0932\u094d\u0926\u0940 \u0939\u094b \u091c\u093e\u090f,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1695.59,
+        "end": 1698.77,
+        "text": "\u092a\u091f\u093e-\u092a\u091f \u0939\u094b\u0928\u0947 \u0932\u0917\u0947, \u0930\u094b\u091c\u0940 \u0939\u094b\u0928\u0947 \u0932\u0917\u0947, \u091a\u093e\u0939\u093e \u0928\u0939\u0940\u0902 \u0939\u094b \u0917\u092f\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1701.09,
+        "end": 1705.77,
+        "text": "\u0909\u0938\u0915\u094b \u0926\u0938\u094d\u0924 \u0915\u0939\u0924\u0947 \u0939\u0948\u0902, \u0915\u093f \u0939\u094b \u0917\u092f\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1712.09,
+        "end": 1716.13,
+        "text": "\u0915\u091a\u094d\u091b\u093e \u0916\u0930\u093e\u092c \u0939\u094b \u0917\u092f\u093e, \u091a\u093e\u0939\u0924\u0947 \u0928\u0939\u0940\u0902 \u0925\u0947 \u0939\u094b \u0917\u092f\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1717.57,
+        "end": 1720.17,
+        "text": "\u0926\u0938\u094d\u0924 \u0932\u0917\u0947 \u0939\u0948, \u0910\u0938\u093e \u0939\u0940 \u0939\u094b\u0924\u093e \u0939\u0948 \u0913 \u0938\u092e\u0941\u091d\u0924\u093f\u092d\u0932\u093f\u0938\u30fc\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1720.17,
+        "end": 1723.95,
+        "text": "\u0905\u0926\u093f\u0915\u093e\u0902\u0936 \u0932\u094b\u0917\u094b\u0902 \u0915\u093e \u092a\u094d\u092f\u093e\u0930 \u0910\u0938\u093fcare \u0939\u093f \u0939\u094b\u0924\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1724.07,
+        "end": 1726.53,
+        "text": "\u0926\u0938\u094d\u0924, loss motion,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1731.9699999999998,
+        "end": 1736.89,
+        "text": "turbulence \u0440\u0435\u0441zk\ufffd\u0926 \u0905\u0938a\u015f\u0903\u0924\u0941\u0932 \u0907\u0924\u094d\u091b\u093e\u0932\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1736.89,
+        "end": 1739.19,
+        "text": "loose motion \u0915\u094b \u092d\u0938\u094d\u0924\u0935\u0940\u0926 \u092c\u0940 \u092c\u094b\u0932 \u0938\u0915\u0924\u0947 \u0939\u0948 \u0918\u093c\u0939\u0947 Meditation as to whether you can say it as a loose motion.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1765.75,
+        "end": 1766.87,
+        "text": "\u092c\ufffd Perqu\u00e8aaa",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1768.49,
+        "end": 1772.05,
+        "text": "\u092b\u093f\u0930 30 \u0915\u0940 40 \u0915\u0940 \u0909\u092e\u0930 \u092e\u0947\u0902 \u092a\u093e\u0901\u091a \u0915\u0947 \u0939\u092e\u0947\u0902 \u0924\u093e\u091c\u094d\u091c\u0942\u092c \u0939\u094b\u0924\u093e \u0939\u0948 \u0915\u093f",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1772.05,
+        "end": 1776.0900000000001,
+        "text": "\u0905\u0930\u0947 \u092a\u094d\u092f\u093e\u0930 \u0924\u094b \u092c\u0939\u0941\u0924 \u0915\u093f\u092f\u093e, \u0905\u092b\u0947\u0930\u094d\u0938 \u0924\u094b \u092c\u0939\u0941\u0924 \u0925\u0947 \u0939\u092e\u093e\u0930\u0947,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1778.29,
+        "end": 1782.41,
+        "text": "\u0915\u0941\u091b \u092e\u093f\u0932\u093e \u0928\u0939\u0940\u0902, \u0918\u093e\u0913, \u091a\u094b\u091f \u0914\u0930 \u0928\u093f\u0936\u093e\u0928 \u0915\u0947 \u0932\u093e\u0935\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1786.81,
+        "end": 1790.01,
+        "text": "\u0915\u0941\u091b \u092a\u093e\u092f\u093e \u0928\u0939\u0940\u0902, \u0935\u0915\u094d\u0924 \u0915\u0940 \u092c\u0930\u094d\u0935\u093e\u0926\u0940 \u0915\u0947 \u0932\u093e\u0935\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1790.99,
+        "end": 1797.25,
+        "text": "\u0915\u094d\u092f\u094b\u0902, \u0915\u094d\u092f\u094b\u0902 \u0915\u0940 \u092a\u094d\u092f\u093e\u0930 \u092a\u094d\u0930\u093e\u0915\u094d\u0930\u0924\u093f\u0915 \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e, \u092c\u091a\u094d\u091a\u0947,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1798.15,
+        "end": 1800.73,
+        "text": "\u092a\u094d\u092f\u093e\u0930 \u0905\u0926\u094d\u092f\u093e\u0924\u094d\u092e\u093f\u0915 \u0939\u0942\u0901 \u0925\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1803.3700000000001,
+        "end": 1807.57,
+        "text": "\u0905\u092d\u0940 \u0915\u0941\u091b \u0926\u093f\u0928 \u092a\u0947\u0932\u0947 \u092e\u0948\u0902\u0928\u0947 \u0927\u0930\u094d\u092e \u092a\u0930 \u092c\u093e\u0924 \u0915\u0930\u0940,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1808.01,
+        "end": 1811.33,
+        "text": "\u092e\u0948\u0902\u0928\u0947 \u0915\u093f \u0926\u0930\u094d\u092e \u0939\u091f\u093e \u0926\u094b \u091c\u0940\u0935\u0928 \u0938\u0947, \u0909\u0938\u0915\u0947 \u092c\u093e\u0926\u092c \u092c\u0924\u093e\u0926\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1811.41,
+        "end": 1813.81,
+        "text": "\u0915\u093f \u092a\u094d\u0930\u0947\u092e \u0915\u094b\u0902 \u0938\u093f\u0916\u093e\u092f\u0947\u0917\u093e \u0924\u0941\u092e\u0915\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1813.81,
+        "end": 1824.81,
+        "text": "\u092e\u093e\u0928\u0947 \u0915\u093e \u0926\u0930\u094d\u092e \u0939\u091f\u093e \u0926\u094b \u091c\u093f\u0935\u0902\u0938\u0947 \u092c\u0924\u093e\u0913 \u092a\u0947\u0930 \u0915\u093f \u092a\u094d\u0930\u0947\u092e \u0914\u0930 \u0915\u0930\u0928\u093e \u0924\u0941\u092e\u0947\u0902 \u0915\u094c\u0928 \u092c\u0924\u093e\u092f\u0947\u0917\u0906 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u092f\u0939 \u0938\u092e\u094d\u0935\u093f\u0927\u093e\u0928 \u0906\u091c\u0915\u0932 \u0932\u094b\u0917 \u0907\u0902\u0926\u094b \u0915\u0947 \u092c\u0921\u093c\u0947 \u0915\u093e\u092f\u0932 \u0906\u090f \u092c\u0921\u093c\u0947 \u092e\u094c\u0930\u0940\u0926\u0947\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1851.83,
+        "end": 1853.23,
+        "text": "jem",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1853.23,
+        "end": 1859.59,
+        "text": "\u092a\u094d\u0930\u0947\u092e \u092c\u0928\u0924\u093e \u0939\u0948 \u092f\u093e \u0938\u092e\u0935\u093f\u0926\u093e\u0928 \u0915\u0947 \u0915\u094c\u0928 \u0938\u0947 \u0905\u0928\u0941\u091a\u094d\u091b\u0947\u0926 \u092e\u0947\u0902 \u092a\u094d\u0930\u0947\u092e \u0915\u093e \u0914\u0930 \u0915\u0930\u0941\u0923\u093e \u0915\u093e \u0935\u0930\u094d\u0923\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\u0902, \u092c\u0924\u093e\u0926\u094b\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1859.59,
+        "end": 1867.19,
+        "text": "\u0924\u094b \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u091c\u0935\u093e\u092c \u0906\u092f\u0947, \u0915\u094c\u092e\u0947\u0902\u091f\u094d\u0938 \u0906\u092f\u0947, \u0924\u094b \u0932\u094b\u0917 \u092c\u092c\u0932\u0947 \u0906\u092a \u0915\u094d\u092f\u093e \u092c\u094b\u0932 \u0930\u0939\u0947 \u0939\u0948\u0902, \u0915\u093f \u0927\u0930\u092e \u0928\u0939\u0940\u0902 \u0939\u094b\u0917\u093e \u0924\u094b \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u0939\u094b \u0938\u0915\u0924\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1867.19,
+        "end": 1878.97,
+        "text": "\u0938\u092c \u092a\u0936\u0942 \u092d\u0940 \u0924\u094b \u0906\u092a\u0938 \u092e\u0947\u0902 \u092a\u094d\u092f\u093e\u0930 \u0915\u0930\u0924\u0947 \u0939\u0940 \u0939\u0948\u0902 \u0928, \u0907\u0924\u0928\u0947 \u0938\u093e\u0930\u0947 \u0935\u0940\u0921\u093f\u092f\u094b\u0902 \u0939\u0948\u0902, \u0906\u092a \u0926\u0947\u0916\u093f\u092f\u0947 \u092f\u0942\u091f\u094d\u092f\u0942\u092c \u092a\u0930 \u0939\u0948\u0902, \u0928\u0948\u0936\u094d\u091f\u0928\u0932 \u091c\u0949\u0917\u0930\u094d\u092b\u093f\u0915 \u092a\u0930 \u0939\u0948\u0902, \u091c\u0939\u093e\u0902 \u0926\u093f\u0916\u093e\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u090f\u0915 \u091c\u093e\u0928\u0941\u0935\u0930 \u0926\u0942\u0938\u0930\u0947 \u091c\u093e\u0928\u0941\u0935\u0930 \u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948 \u0935\u0917\u094d\u0917\u0930\u093e \u0935\u0917\u094d\u0917\u0930\u093e",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1878.97,
+        "end": 1895.89,
+        "text": "\u092f\u0939 \u0935\u094b \u092a\u0930 \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u0939\u0948\u0902, \u0909\u0928\u094d\u0939\u0947\u0902 \u092a\u094d\u0930\u0947\u092e \u0915\u093f\u0938 \u0928\u0947 \u0936\u093f\u0915\u094d\u0937\u093e\u092f\u093e, \u0909\u0928\u094d\u0939\u0947\u0902 \u092a\u0930 \u092a\u0930\u092e \u0928\u0939\u0940\u0902 \u0939\u0948, \u092a\u0930 \u092d\u0940 \u0909\u0928\u094d\u0939\u0947\u0902 \u092a\u094d\u0930\u0947\u092e \u092a\u0924\u093e \u0939\u0948, \u092a\u0917\u0932\u0947 \u0935\u094b \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u0939\u0948\u0902, \u0909\u0938\u0915\u0940 \u091a\u0930\u091a\u093e \u092e\u0948\u0902 \u092a\u0939\u0932\u0947 \u0915\u0930 \u091c\u094b\u0915\u093e \u0939\u0942\u0902, \u0909\u0938\u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0928\u0947 \u0906\u0924\u0947 \u0939\u0942\u0902, \u0935\u094b \u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948 \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u093e \u092a\u0930 \u092a\u0939\u0932\u0947 \u092a\u0942\u0930 \u0935\u0940\u0921\u093f",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1896.71,
+        "end": 1906.89,
+        "text": "\u091c\u093e\u0928\u0941\u0930 \u090f\u0915 \u0926\u0942\u0938\u0930\u0947 \u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u091c\u094b \u0926\u093f\u0916\u093e\u0924\u0947 \u0939\u0948\u0902, \u0935\u094b \u092d\u0940 \u0909\u0928\u094d\u0939\u0940\u0902 \u091c\u0948\u0935\u093f\u0915 \u0938\u0902\u0938\u0915\u093e\u0930\u093f\u0924\u093e \u092e\u093e\u0924\u094d\u0930 \u0939\u0948, \u092b\u093f\u0938\u093f\u0915\u0932 \u0915\u0902\u0921\u093f\u0936\u093f\u0928\u093f\u0902\u0917 \u092e\u093e\u0924\u094d\u0930 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1908.93,
+        "end": 1915.09,
+        "text": "\u0909\u0926\u093e\u0930\u0928 \u0915\u0947 \u0932\u093f\u090f \u0924\u0941\u092e \u0926\u0947\u0916\u0924\u0947 \u0939\u094b \u0915\u093f \u092a\u0915\u094d\u0937\u0940\u0902 \u0915\u093e \u090f\u0915 \u091c\u0941\u0923\u0926 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u0915\u0924\u093e\u0930\u092c\u0926 \u0939\u094b \u0915\u0930 \u0915\u0947 \u0909\u0921\u093c\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1916.09,
+        "end": 1924.09,
+        "text": "\u0907\u0938\u0915\u094b \u0924\u0941\u092e \u0905\u0928\u0941\u0936\u093e\u0938\u0928 \u0925\u094b\u0921\u093c\u0947 \u0939\u0940 \u092c\u094b\u0932\u094b\u0917\u0947, \u092f\u0947 \u0924\u094b \u0909\u0928\u0915\u0940 \u0935\u093f\u0926\u094d\u0907 \u0939\u0948 \u0905\u092a\u0928\u0940 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0915\u0930\u0928\u0947 \u0915\u0940,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1925.17,
+        "end": 1930.09,
+        "text": "\u0926\u093f\u0916\u093e \u092a\u0915\u094d\u0937\u0940\u0902 \u0935\u094b \u0915\u0948\u0938\u0947 \u0909\u0921\u093c\u0924\u0947 \u0939\u0948\u0902, \u0916\u093e\u0938\u0924 \u0935\u0930\u094d\u092a\u0947 \u091c\u094b \u0932\u0902\u092c\u0940 \u0926\u0942\u0930\u0940 \u0915\u0940 \u092f\u093e\u0924\u0930\u093e \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902 \u092a\u0915\u094d\u0937\u0940\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1931.09,
+        "end": 1936.61,
+        "text": "\u092f\u0947 \u0935\u093f\u0926\u094d\u0907 \u0939\u0948 \u091c\u093f\u0938\u0915\u0947 \u0926\u094d\u0935\u093e\u0930\u093e \u0935\u094b \u0905\u092a\u0928\u0940 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1936.61,
+        "end": 1944.09,
+        "text": "\u092a\u094d\u0930\u0915\u094d\u0930\u0924\u093f\u0928\u0947 \u0909\u0928\u0915\u0947 \u0921\u093f\u090f\u0928\u0947 \u092e\u0947\u0902 \u092f\u0947 \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u0921\u093e\u0932\u093e \u0939\u0941\u0906 \u0939\u0948, \u092f\u0947 \u0907\u0902\u0938\u094d\u091f\u094d\u0930\u0949\u0915\u094d\u0937\u0923 \u0921\u093e\u0932\u093e \u0939\u0941\u0906 \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1945.15,
+        "end": 1952.09,
+        "text": "\u0915\u093f \u091c\u094b \u0938\u094d\u0935\u091c\u093e\u0924\u093f \u0915\u093e \u0939\u094b, \u091c\u094b \u0905\u092a\u0928\u0940 \u0939\u0940 \u091c\u093e\u0924\u093f \u0915\u093e \u0939\u094b, \u0909\u0938\u0915\u0947 \u0938\u093e\u0925 \u0915\u093f\u0938 \u0924\u0930\u0939 \u0915\u0947 \u0938\u092e\u092c\u0902\u0926 \u0930\u0916\u0928\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1952.98,
+        "end": 1958.94,
+        "text": "\u0914\u0930 \u0935\u094b \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u0905\u0917\u0930 \u0928\u0939\u0940\u0902 \u0921\u093e\u0932\u093e \u0939\u094b\u0917\u093e, \u0924\u094b \u092b\u093f\u0930 \u091c\u093e\u0924\u093f\u092f\u093e\u0902 \u092a\u094d\u0930\u091c\u093e\u0924\u093f\u092f\u093e\u0902 \u0938\u092e \u0928\u0936\u094d\u091f \u0939\u094b\u0928\u0947 \u0932\u0917\u0947\u0902\u0917\u0940 \u0928,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1959.02,
+        "end": 1967.56,
+        "text": "\u0924\u0940\u0915 \u0935\u0948\u0938\u0947 \u091c\u0948\u0938\u0947 \u092e\u093e\u0903 \u0915\u0947 \u0921\u093f\u090f\u0928\u0947 \u092e\u0947\u0902, \u092a\u094d\u0930\u0915\u094d\u0930\u0924\u093f\u0928\u0947 \u092a\u0939\u0932\u0947 \u0938\u0947 \u0939\u0940 \u092f\u0947 \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u092c\u0939\u0930 \u0930\u0916\u093e \u0939\u0948, \u092f\u0947 \u0938\u0949\u092b\u094d\u091f\u094d\u0935\u0947\u0930 \u0921\u093e\u0932 \u0930\u0916\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1967.56,
+        "end": 1972.56,
+        "text": "\u091c\u092c \u092c\u091a\u094d\u091a\u093e \u092a\u0948\u0926\u093e \u0939\u094b\u0917\u093e \u0924\u094b \u0909\u0938\u0915\u0947 \u092a\u094d\u0930\u0924\u093f \u092e\u092e\u094d\u0924\u093e \u0930\u0916\u0928\u0940 \u0939\u0940 \u0930\u0916\u0928\u0940 \u0939\u0948, \u092f\u0947 \u092a\u094d\u0930\u0947\u092e \u0925\u094b\u0921\u093c\u0947 \u0939\u0940 \u0939\u0948 \u092e\u092e\u094d\u0924\u093e,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1974.22,
+        "end": 1979.96,
+        "text": "\u0907\u0938\u0940 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947 \u0905\u0917\u0930 \u0924\u0941\u092e \u092a\u093e\u0935\u094b, \u0915\u093f \u090f\u0915 \u091c\u093e\u0928\u0935\u0930 \u0926\u0942\u0938\u0930\u0947 \u091c\u093e\u0928\u0935\u0930 \u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948, \u0935\u094b \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u0915\u0939\u0932\u093e\u0924\u093e \u0939\u0948,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 1979.96,
+        "end": 1988.54,
+        "text": "\u0935\u094b \u0924\u094b \u092a\u094d\u0930\u093e\u0915\u094d\u0930\u0924\u093f\u0915 \u0928\u093f\u0930\u094d\u0926\u0947\u0936\u094b\u0902 \u0915\u093e \u092a\u093e\u0932\u0928 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948, \u092a\u094d\u0930\u0915\u094d\u0930\u0924\u093f\u0928 \u0928\u0947 \u091c\u094b \u091a\u0940\u091c\u093c \u0909\u0938\u0915\u0947 \u091c\u093f\u0938\u094d\u092e \u092e\u0947\u0902 \u092d\u0930 \u0926\u093f\u092f\u093e \u0939\u0948, \u0935\u094b \u0909\u0938\u0940 \u0915\u0947 \u0928\u0941\u0938\u093e\u0930 \u091a\u0932 \u0930\u0939\u093e \u0939\u0948, \u092f\u0947 \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u0915\u0939\u0932\u093e\u0924\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1988.54,
+        "end": 1998.7,
+        "text": "\u092d\u0941\u0922\u094d\u0924 \u0932\u094b\u0917 \u0907\u0938 \u092c\u093e\u0925 \u092a\u0930 \u0924\u0915\u091c\u0941\u092c \u092e\u0947\u0902 \u092a\u0921\u093c\u091c\u093e\u0924\u0947 \u0939\u0948\u0902 \u092f\u093e \u091a\u092e\u094d\u092d\u093e \u092e\u093e\u0928\u0924\u0947 \u0939\u0948, \u0917\u090f\u091f\u0947 \u0939\u0948\u0902 \u0910\u0938 \u0935\u0939 \u0914\u0930 \u092f\u0947 \u0928\u0939\u0940\u0902 \u092a\u094d\u0930\u0947\u092e \u0939\u0948\u0902 \u0924\u094b \u092b\u093f\u0930 \u092a\u094d\u0930\u0947\u092e \u0915\u094d\u092f\u093e \u0939\u0941\u0924\u093e \u0939\u0948\u0964 \u092c\u093f\u091f\u094d\u091f\u093c \u0927\u0930\u092e \u0915\u0940 \u0924\u0930\u093e\u092b \u0906\u0913 \u0924\u094b \u092c\u0924\u093e\u0907\u0902 \u092a\u094d\u0930\u0947\u092e \u0915\u094d\u092f\u093e \u0939\u0941\u0924\u093e \u0939\u0948,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 1998.7,
+        "end": 2003.64,
+        "text": "\u092d\u0932\u093e \u0930\u0941\u092f game you won't even understand what love is.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2004.1,
+        "end": 2007.3,
+        "text": "\u0905\u092a \u0905\u092a\u0917\u0930 \u0907\u092e\u093e\u0928 \u0926\u093e\u0930 \u0939\u094b, \u091c\u093e\u0928\u0928\u093e \u0939\u0940 \u091a\u093e\u0924\u0947 \u0939\u094b \u092a\u094d\u0930\u0947\u092e \u0915\u094d\u092f\u093e \u0939\u0941\u0924\u093e \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2007.3,
+        "end": 2007.3,
+        "text": "",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2007.3,
+        "end": 2008.7,
+        "text": "\u0924\u094b \u0906\u0913 \u0924\u0941\u092e\u094d\u0939\u0947\u0902 \u092e\u093f\u0932\u094d\u0935\u093e\u0907\u0902\u0917\u0947,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2009.32,
+        "end": 2010.24,
+        "text": "will make you meet, they will make you meet big people,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2010.84,
+        "end": 2012.54,
+        "text": "\u092a\u094d\u0930\u0947\u092e\u093e\u0901 \u092f\u0947 \u0938\u093e\u0939\u092d\u0941\u0902 \u0938\u0947 \u092e\u093f\u0932\u094d\u0935\u093e\u0907\u0902\u0917\u0947,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2012.54,
+        "end": 2014.56,
+        "text": "They will tell you, what love is.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2014.8,
+        "end": 2015.74,
+        "text": "\u0907\u0924\u0928\u093e \u0938\u094d\u092e\u091d\u092e\u0941\u091c \u0932\u094b\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2015.84,
+        "end": 2019.24,
+        "text": "\u091c\u093e\u0928\u094d\u0935\u0930 \u0915\u093e \u091c\u093e\u0928\u094d\u0935\u0930 \u0915\u0947 \u092a\u0930\u0924\u0947 \u092c\u0930\u0924\u093e\u0935, \u092a\u094d\u0930\u0947\u092e \u0928\u0939\u0940\u0902 \u0915\u0939\u0932\u093e\u0924\u093e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2020.64,
+        "end": 2023.96,
+        "text": "\u092d\u0932\u0908 \u0939\u0940 \u0924\u0941\u092e \u092a\u093e\u0935vette \u090f\u0915 \u091c\u093e\u0928\u094d\u0935\u0930 \u0926\u0942\u0938\u0930\u0947 \u091c\u093e\u0928\u094d\u0935\u0930 \u0938\u0947 \u092e\u0942\u0930\u094d\u0917\u0921\u093c\u0930\u093e,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2025.4799999999998,
+        "end": 2030.36,
+        "text": "\u092f Mostly Jess\u0930 Fighting \u0906\u092a \u0907 \u0915\u093e \u0907\u0915 \u091c\u093e\u0928\u094d\u0935\u0930 \u0926\u0942\u0938\u0930\u0947 \u091c\u093e\u0928\u094d\u0935\u0930 \u0915\u0940 \u0936\u093e\u092f\u0924\u093e \u0915\u0930\u0924\u093e \u092a toll \u0906\u092f\u0947 \u0915chlossen trying to help a fellow animal that does not seem to be called as love,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2030.36,
+        "end": 2037.3999999999999,
+        "text": "\u0935\u094b \u092a\u094d\u0930\u0947\u092e \u0939\u0948 \u092d\u0940, \u0924\u094b \u092c\u0921\u093c\u0940 \u0939\u0940 \u0928\u093f\u092e\u094d\u0928\u0915\u094b\u091f\u093f\u0915 \u092a\u094d\u0930\u0947\u092e \u0939\u0948, \u092c\u0939\u0941\u0924 \u0906\u0930\u092e\u092d\u093f\u0915 \u091a\u0930\u0928 \u0915\u093e \u092a\u094d\u0930\u0947\u092e \u0939\u0948 \u0935\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2039.0,
+        "end": 2046.24,
+        "text": "\u092a\u094d\u0930\u0947\u092e \u0915\u0940 \u0909\u091a\u093e\u0907\u092f\u093e\u0902 \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u0940 \u0939\u0948, \u092f\u0947 \u091c\u093e\u0928\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f, \u0924\u094b \u0924\u0941\u092e\u094d\u0939\u0947 \u0918\u094d\u092f\u093e\u0928\u093f\u092f\u094b\u0902 \u0915\u0947, \u0938\u0902\u0924\u094b\u0902 \u0915\u0947, \u0930\u093f\u0936\u0940\u092f\u094b\u0902 \u0915\u0947 \u092a\u093e\u0938 \u091c\u093e\u0928\u093e \u092a\u0921\u093c\u0947\u0917\u093e,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2047.3400000000001,
+        "end": 2052.72,
+        "text": "\u0935\u0939\u093e\u0902 \u0924\u0941\u092e\u0915\u094b \u092a\u091a \u092c\u093e\u0924 \u092a\u0924\u093e \u091a\u0932\u0947\u0917\u0940, \u0935\u0939\u093e\u0902 \u0924\u0941\u092e\u0915\u094b \u092a\u094d\u0930\u092e\u093e\u0928 \u092d\u0940 \u092e\u093f\u0932\u0947\u0902\u0917\u0947.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2052.88,
+        "end": 2058.38,
+        "text": "\u092a\u0930 \u0906\u0913 \u0924\u094b, \u092a\u0922\u094b \u0924\u094b. \u0910\u0938\u0947 \u0925\u094b\u0921\u093c\u0947 \u0939\u0940 \u0915\u093f \u0905\u092a \u0939\u092e 16 \u0938\u093e\u0932 \u0915\u0947 \u0939\u094b \u0917\u092f\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2058.5,
+        "end": 2064.16,
+        "text": "\u092e\u0942\u091a\u0947\u0902 \u0906\u0917\u0908 \u0939\u0948\u0902, \u091c\u093f\u0938\u092e\u0947 \u0915\u0939\u0940\u0902 \u092a\u0930 \u092e\u093e\u0938 \u092c\u0930 \u0930\u0939\u093e \u0939\u0948, \u0915\u0939\u0940\u0902 \u0938\u0947 \u092c\u093e\u0932 \u0906 \u0930\u0939\u0947 \u0939\u0948\u0902,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2064.16,
+        "end": 2070.8,
+        "text": "\u0924\u094b \u0935\u0939\u093e\u0902 \u092d\u0940 \u092a\u094d\u0930\u0947\u092e \u0915\u0947 \u0915\u093e\u092c\u093f\u0932 \u0939\u094b \u0917\u092f\u0947 \u0939\u0948\u0902, \u0910\u0938\u0947 \u0928\u0939\u0940\u0902 \u0906 \u091c\u093e\u0924\u093e \u092a\u094d\u0930\u0947\u092e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2071.54,
+        "end": 2075.44,
+        "text": "\u092a\u094d\u0930\u0947\u092e \u0938\u092e\u091d\u0928\u093e \u0939\u094b\u0924\u093e \u0939\u0948, \u092a\u094d\u0930\u0947\u092e \u0938\u0940\u0916\u0928\u093e \u092a\u0930\u0924\u093e \u0939\u0948, \u092e\u0948\u0902 \u0915\u0939 \u0930\u0939\u093e \u0939\u0942\u0902, \u092c\u0939\u0941\u0924 \u0905\u0926\u094d\u092c\u0942\u0927,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2075.6,
+        "end": 2080.06,
+        "text": "\u0914\u0930 \u092c\u0921\u093c\u0940 \u0905\u092a\u094d\u0930\u093e\u092a\u094d\u0924, \u0914\u0930 \u092c\u0921\u093c\u0940 \u0926\u0941\u0930\u094d\u0932\u092c, \u0914\u0930 \u092c\u0921\u093c\u0940 \u092c\u093f\u0930\u094d\u0932\u0940 \u091a\u0940\u091c \u0939\u0948 \u092a\u094d\u0930\u0947\u092e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2080.06,
+        "end": 2085.26,
+        "text": "\u092c\u0948\u091f\u0907 \u092d\u0940\u0924\u093e\u0908 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932 \u091c\u093e\u0928\u0940 \u0939\u0948, \u0915\u094b\u0908 \u0915\u093f\u0938\u093e\u0902 \u092a\u0930 \u0915\u093e\u092c\u093f\u0932 \u0928\u0939\u0940\u0902, \ud568\uaed8 \u0924 \ud5c8\ufffd\u0928\u0947 \u092f\u0947,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2085.26,
+        "end": 2088.18,
+        "text": "\u0907\u0926\u0940 \u0906\u0917\u0915\u30fc\u30c9 \u0939\u094b \u0914\u0930 \u0905\u091agran \u0935\u0939 \u0932\u093e\u0917 \u0906 \u092e\u0947\u0902 \u0915\u0939\u0924\u093e \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2110.2,
+        "end": 2131.04,
+        "text": "\u092f\u0947 \u0907\u0936\u094d\u0915 \u0939\u0948\u0902\u0964 \u0928 \u0924\u094b \u0907\u0936\u094d\u0915 \u0935\u093f\u091c\u094d\u092f\u093e\u0928 \u092e\u0947\u0902 \u0939\u0948, \u0928 \u0938\u092e\u0935\u093f\u0927\u093e\u0928 \u092e\u0947\u0902 \u0939\u0948, \u0914\u0930 \u0928 \u0939\u0940 \u092a\u094d\u0930\u0915\u094d\u0930\u0924\u093f \u0915\u0947 \u0935\u093f\u0927\u093e\u0928 \u092e\u0947\u0902 \u0939\u0948\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2131.04,
+        "end": 2136.06,
+        "text": "\u0907\u0928 \u0924\u0940\u0928\u094b \u091c\u0917\u0939\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u0915\u0939\u0940\u0902 \u092a\u0930 \u092d\u0940 \u0907\u0936\u094d\u0915 \u092e\u0924 \u0916\u094b\u091c\u0932\u0947 \u0928, \u0906\u092a \u092c\u0924\u093e\u0913 \u0915\u0939\u093e\u0902 \u092a\u093e\u0913\u0917\u0947\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2136.26,
+        "end": 2144.26,
+        "text": "\u0914\u0930 \u0939\u092e \u0907\u0928 \u0939\u0940 \u0924\u0940\u0928\u094b \u091c\u0917\u0939\u094b\u0902 \u092e\u0947\u0902 \u0938\u092c \u0915\u0941\u091b \u0924\u0932\u093e\u0936\u0924\u0947 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902, \u0939\u092e\u0947\u0902 \u0932\u0917\u0924\u093e \u0939\u0948, \u091c\u094b \u0915\u0941\u091b \u0939\u0948 \u092f\u0939\u0940 \u092a\u0930 \u0939\u0948, \u092f\u0939\u0940 \u0924\u094b \u0938\u0924\u094d\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2145.3,
+        "end": 2151.98,
+        "text": "\u0935\u093f\u091c\u094d\u092f\u093e\u0928 \u0935\u093e\u0932\u0947 \u092a\u094d\u0930\u0947\u092e \u0915\u094b \u092d\u0940 \u0935\u093f\u091c\u094d\u092f\u093e\u0928 \u0915\u0940 \u092d\u093e\u0936\u093e \u092e\u0947\u0902 \u092a\u0930\u092d\u093e\u0936\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0940 \u091c\u0940 \u0924\u094b\u0921\u093c \u0915\u094b\u0936\u093f\u0936 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2151.98,
+        "end": 2162.94,
+        "text": "\u0935\u094b \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u0926\u0947\u0916\u094b, \u091c\u092c \u0926\u093f\u092e\u093e\u0917 \u092e\u0947\u0902 \u0907\u0938 \u0924\u0930\u0939 \u0915\u0947 \u0924\u0924\u094d\u091f \u0915\u093e \u0909\u0924\u094d\u0938\u0930\u094d\u091c\u0928 \u0939\u094b\u0924\u093e \u0939\u0948, \u092b\u0932\u093e\u0928\u093e \u0930\u0938\u093e\u092f\u0928 \u091c\u092c \u0938\u0915\u094d\u0930\u093f\u092f \u0939\u094b \u091c\u093e\u0924\u093e \u0939\u0948 \u092c\u094d\u0930\u0947\u0928 \u092e\u0947\u0902, \u0924\u094b \u0909\u0938\u0915\u094b \u0939\u092e \u092a\u094d\u0930\u0947\u092e \u0915\u0939\u0924\u0947 \u0939\u0948\u0902\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2162.94,
+        "end": 2192.92,
+        "text": "\u0924\u094b \u0935\u0947 \u0932\u093e\u091c \u0928\u0939\u0940\u0902 \u0906\u0924\u0940, \u0924\u094b \u0935\u0947 \u0924\u094b \u0935\u0947 \u092c\u0940\u0935\u0940 \u0938\u0947 \u091c\u094b \u0924\u094b\u092e\u094d\u0939\u093e\u0930\u093e \u0930\u093f\u0937\u094d\u0924\u093e \u0939\u0948, \u0935\u094b \u090f\u0915 \u0907\u0902\u091c\u0947\u0915\u094d\u0937\u0923 \u0915\u093e \u0915\u093e\u092f\u0932 \u0939\u0948, \u0905\u0917\u0930 \u092a\u094d\u0930\u0947\u092e \u0924\u094b\u092e \u0915\u093f\u0938\u0940 \u0930\u0938\u093e\u092f\u0928 \u092f\u093e \u0930\u0938\u093e\u092f\u0928\u093f\u0915 \u092a\u094d\u0930\u0915\u0930\u093f\u092f\u093e \u0915\u094b \u0915\u0939 \u0930\u0939\u0947 \u0939\u094b, \u0924\u094b \u092b\u093f\u0930 \u0924\u094b \u0924\u0941\u092e\u0928\u0947 \u091c\u094b \u0930\u093f\u0937\u094d\u0924\u0947 \u092c\u0928\u093e \u0930\u0916\u0947 \u0939\u0948\u0902 \u0905\u092a\u0928\u0947 \u092d\u0940\u0935\u0940, \u0905\u092a\u0928\u0947 \u092c\u091a\u094d\u091b\u094b\u0902, \u0905\u092a\u0928",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2192.92,
+        "end": 2200.92,
+        "text": "\u0924\u094b \u0907\u0939 \u0935\u093f\u091c\u094d\u091e\u093e\u0928\u0935\u093e\u0926\u0940 \u0932\u094b\u0917 \u0939\u0948\u0902, \u0907\u0939 \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u092a\u094d\u0930\u0947\u092e \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0915\u0940 \u091a\u0940\u091c\u093c \u0939\u0948, \u092a\u0917\u0932\u0947 \u0939\u0948\u0902, \u092b\u093f\u0930 \u0938\u092e\u094d\u0935\u093f\u0926\u093e\u0928\u0935\u093e\u0926\u0940 \u0932\u094b\u0917 \u0930\u0939\u0947 \u0939\u0948\u0902, \u0935\u094b \u0915\u0939\u0924\u0947 \u0939\u0948\u0902, \u0926\u0947\u0916\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2202.14,
+        "end": 2207.52,
+        "text": "\u0938\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u0935\u0938\u094d\u0924\u093e \u0939\u0948\u0902, \u0909\u0938\u092e\u0947 \u0938\u092c \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0938\u092e\u093e\u0928 \u0905\u0927\u093f\u0915\u093e\u0930 \u0935\u093e\u0917\u0930\u093e \u0939\u094b\u0928\u0947 \u091a\u093e\u0939\u093f\u090f,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2207.52,
+        "end": 2216.28,
+        "text": "\u0906\u0926\u092e\u0940 \u0906\u0926\u092e\u0940\u0902 \u0915\u094b \u091b\u0941\u091f\u093e \u0928\u0939 \u0930\u0939\u093e \u0939\u0948, \u0905\u092a\u0928\u0947 \u0926\u093e\u091f \u092a\u093e\u0924 \u0926\u0930\u094d\u092e \u0915\u0947 \u0928\u093e\u092e \u092a\u0930 \u092d\u0947\u0926\u092d\u093e\u0935 \u0928\u0939\u094b, \u0932\u093f\u0902\u0917 \u0915\u0947 \u0905\u0927\u093e\u0930 \u092a\u0930 \u0930\u0902\u0917 \u0915\u0947 \u0905\u0927\u093e\u0930 \u092a\u0930 \u092d\u0947\u0926\u092d\u093e\u0935 \u0928\u0939\u094b,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2216.4,
+        "end": 2219.28,
+        "text": "\u092c\u0938 \u092f\u0939\u0940 \u0924\u094b \u092a\u094d\u0930\u0947\u092e \u0939\u0948, \u0924\u0941\u092e \u092a\u093e\u0917\u0932 \u0939\u094b.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2238.62,
+        "end": 2245.38,
+        "text": "Thus the brother must be miserable although he has experienced it earlier.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2245.38,
+        "end": 2245.52,
+        "text": "Now when he has got his lawyer trainee 20 mint ask him what is the meaning of this text?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 2245.54,
+        "end": 2247.12,
+        "text": "He has said- Love the other.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2248.72,
+        "end": 2249.26,
+        "text": "thus the Muslimkommen to understand this but the one who datelator's son is dead.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2249.26,
+        "end": 2250.66,
+        "text": "\u0924\u094b \u0935\u0915\u093e\u0928\u094d\u092f\u0926\u094d\u0925\u0947 \u092d fore vainva Home is only like this",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2250.66,
+        "end": 2252.28,
+        "text": "\u092f\u0926 \u9019\u500b \u0914\u0930 \u0907\u0938\u0915\u094b inexpensive \u091c\u093c\u093e\u0930.\u5570\u093f \u0915\u094b \u0905\u0902\u0916\u093eio\u00e8 \u0936\u093e\u0926\u094d\u092f\u0924\u0947\u0916\u093e\u0964 Samvidhan says, look at the stocks.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2252.34,
+        "end": 2253.6400000000003,
+        "text": "\u0938\u092e\u094d\u0935\u0926\u094d\u0927\u093e\u0923 \u0926\u094b\u0933\u094b \u092d\u091d\u094d\u0928\u0940 \u092a\u0942\u0932\u0915\u0940\u0928\u094d\u0924ension is not like00",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2254.32,
+        "end": 2255.22,
+        "text": "\u0914\u0930 \u0908\u0938 \u0915\u0947 \u0935\u0942\u0937 jij\u093e\u0932\u094d\u0926\u0947\u0924 live for you,josed for you,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2255.28,
+        "end": 2257.94,
+        "text": "\u0907\u0938\u0915\u0947\u0935\u0926\u094d\u0902 \u0932\u0939 \u092d\u0940 \u0905\u0902\u091f\u0932\u094d\u0927 acerca, its not like that only.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2258.9199999999996,
+        "end": 2262.32,
+        "text": "\u092a\u0917\u0932\u0947\u0902 \u0939\u0948 \u0935\u094b \u091c\u094b \u0938 diagram \u0915\u0940 \u091c\u093e\u0932 \u0915\u093f\u0937\u093e\u090f\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2262.32,
+        "end": 2264.62,
+        "text": "\u092a\u0917\u0932\u0947\u0902 \u0939\u0948\u0902 \u0935\u094b \u091c\u092c \u0909\u0938 \u092a\u0930\u094d\u0932\u0938 \u0915\u0930 \u0938\u0915 Crew\u043b\u0435\u043dos Yab70ousing \ucc44 \u0932\u093f\u090f \u0935\u093e\u0908\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2264.62,
+        "end": 2266.16,
+        "text": "\u0906\u092a \u017cy\u094d\u0916\u093e\u0928 \u0918\u0940\u0924\u093e \u0915\u093e \ufffd",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2266.16,
+        "end": 2271.1,
+        "text": "medim \u0924\u094b \u092e\u0948\u0902 \u0926\u093f\u0930\u094d\u092e\u093e\u0902 \u0915\u0930 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2271.1,
+        "end": 2287.92,
+        "text": "\u0924\u094b \u0924\u094b \u092e Nove Most of Dadas Are Creativeuhan",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2287.92,
+        "end": 2289.1,
+        "text": "\u0915\u0930\u0924\u093f\u0935\u093e\u0926\u093f \u0939\u094b\u0924\u0947 \u0939\u0948\u0902",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2289.1,
+        "end": 2290.5,
+        "text": "\u0935\u094b \u0915\u0939\u0924\u0947 \u0905\u0930\u093f \u092a\u094d\u092f\u093e\u0930 \u0915\u094d\u092f\u093e \u0939\u0948 ?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 2290.5,
+        "end": 2292.34,
+        "text": "\u0938\u092c\u0915\u094b \u092a\u0924\u093e \u0939\u0948 \u092a\u094d\u092f\u093e\u0930 \u0915\u094d\u092f\u093e \u0939\u094b\u0924\u093e \u0939\u0948 ?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 2292.34,
+        "end": 2294.74,
+        "text": "\u091a\u0942\u0939\u0947 \u0915\u094b \u0914\u0930 \u0915\u0943\u0924\u0947 \u0915\u094b \u092d\u0940 \u092a\u0924\u093e \u0939\u094b\u0924\u093e \u0939\u0948 being a lover, but everyone knows what love is...",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 2294.74,
+        "end": 2297.06,
+        "text": "\u0907\u0928 \u0915\u0940 \u092c\u093e\u0924 \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0939\u0940 \u0915\u0930 \u091a\u0941\u0915\u093e \u0939\u0942\u0902 I've already talked about these things.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2316.94,
+        "end": 2317.9,
+        "text": "\u092a\u093e\u0917\u0932 \u0928\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2319.5600000000004,
+        "end": 2326.9,
+        "text": "\u0905\u0917\u0930 \u0915\u0941\u0924\u094d\u0924\u093e \u092d\u0940 \u091c\u094b \u091c\u093e\u0928\u0924\u093e \u0939\u0948 \u0935\u0939\u0940 \u091a\u0940\u091c \u092a\u094d\u092f\u093e\u0930 \u0939\u0948, \u0924\u094b \u0924\u0941\u092e \u092d\u0940 \u0905\u092a\u0928\u0940 \u092a\u094d\u092f\u093e\u0930\u0940 \u0915\u094b \u0915\u0941\u0924\u093f\u092f\u093e \u092c\u094b\u0932\u093e \u0915\u0930\u094b \u0928\u093e.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2328.36,
+        "end": 2337.9,
+        "text": "\u0914\u0930 \u091c\u0948\u0938\u0947 \u0915\u0941\u0924\u094d\u0924\u093e \u0915\u0941\u0924\u093f\u092f\u093e \u0906\u092a\u091a \u092e\u0947\u0902 \u0938\u092e\u092c\u0902\u0926 \u0930\u0916\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u091c\u092c \u0917\u0930\u094d\u092e\u0940 \u091a\u093e\u0908 \u0924\u094b \u091a\u093f\u092a\u0915 \u0932\u093f\u092f\u0947 \u0914\u0930 \u0909\u0938\u0915\u0947 \u092c\u093e\u0926 \u0924\u0942 \u0905\u092a\u0928\u0947 \u0930\u0938\u094d\u0924\u0947 \u0914\u0930 \u092e\u0948\u0902 \u0905\u092a\u0928\u0947 \u0930\u0938\u094d\u0924\u0947.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2341.0,
+        "end": 2348.9,
+        "text": "\u092a\u093f\u0932\u094d\u0932\u094b\u0902 \u0915\u094b \u0905\u092c \u0924\u0942 \u0938\u092e\u093e\u0932 \u0914\u0930 \u0909\u0928 \u092a\u093f\u0932\u094d\u0932\u094b\u0902 \u092e\u0947\u0902 \u092d\u0940 \u0915\u094b\u0908 \u092a\u093f\u0932\u094d\u0932\u0940 \u091c\u092c \u092c\u0922\u093c\u0940 \u0939\u094b \u091c\u093e\u090f\u0917\u0940 \u0924\u094b \u092b\u093f\u0930 \u0935\u094b \u092e\u0947\u0930\u0947 \u0939\u0940 \u0915\u093e\u092e \u0906\u090f\u0917\u0940.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2351.26,
+        "end": 2352.9,
+        "text": "\u092b\u093f\u0930 \u092f\u0939\u0940 \u0930\u093f\u0936\u094d\u0924\u093e \u0930\u0916\u094b \u0928\u093e.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2354.28,
+        "end": 2358.4,
+        "text": "\u0932\u094b\u0917 \u0906\u0924\u0947 \u0939\u0948\u0902 \u0935\u094b \u0915\u0939\u0924\u0947 \u0939\u0948\u0902 \u0926\u0947\u0916\u093f\u092f\u0947 \u0938\u093e\u0939\u093e\u092c \u092a\u094d\u092f\u093e\u0930 \u0924\u094b \u091c\u093e\u0928\u0942\u0930 \u092d\u0940 \u0938\u092e\u091d\u0924\u0947 \u0939\u0948\u0902.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2358.4,
+        "end": 2360.86,
+        "text": "\ufffdlight for all,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2361.34,
+        "end": 2363.04,
+        "text": "\u092a\u0936\u094d\u0930 in joy,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2365.44,
+        "end": 2370.1,
+        "text": "\u090f\u092a \u092a eng oh Lord,",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2372.12,
+        "end": 2383.3,
+        "text": "\u092a\u0930 \u0915 actions \u0915\u0930\u093f\u8857orf \u0907\u0938 \u0938\u0939\u0937\u0941\u0927\u093e\u0908 \u092a\u092a\u094d\u092f\u093e\u0930 \u0925\u0940 \u092a\u0942\u0930\u094d\u092b\u094d\u092f\u093e\u0964",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2383.3,
+        "end": 2388.02,
+        "text": "\u0935\u094b \u0915\u094d\u092f\u094b\u0902 \u0938\u092e\u094d\u091c\u093e\u0930\u0947 \u0925\u0947? \u0935\u094b \u0915\u0939 \u0926\u0947\u0924\u0947 \u0939\u0948 \u0924\u094b \u091c\u093e\u0928\u0935\u0930 \u092d\u0940 \u0938\u092e\u091d\u0924\u0947 \u0939\u0948\u0902, \u0907\u0928\u0938\u093e\u0928\u094b\u0902 \u0915\u094b \u0938\u092e\u094d\u091c\u093e\u0928\u0947 \u0915\u0940 \u091c\u093c\u0930\u0942\u0930\u0924 \u0915\u094d\u092f\u093e \u0939\u0948?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 2390.06,
+        "end": 2396.6,
+        "text": "\u092a\u094d\u0930\u0947\u092e \u0924\u0941\u092e\u0915\u094b \u0938\u093f\u0930\u094d\u092b \u0905\u0927\u094d\u092f\u093e\u0924\u094d\u092e \u0938\u093f\u0916\u093e \u0938\u0915\u0924\u093e \u0939\u0948, \u0926\u094b\u0930\u093e \u0930\u0939\u093e \u0939\u0942\u0902, \u0928 \u0935\u093f\u091c\u094d\u092f\u093e\u0928, \u0928 \u0938\u092e\u094d\u0935\u093f\u0926\u093e\u0928, \u0928 \u092a\u094d\u0930\u0915\u094d\u0930\u0924\u093f.",
+        "pause_after": true,
+        "tonal_change": false
+    },
+    {
+        "start": 2397.6,
+        "end": 2401.6,
+        "text": "\u091c\u093f\u0938\u0915\u0947 \u091c\u0940\u0935\u0928 \u092e\u0947\u0902 \u0905\u0927\u094d\u092f\u093e\u0924\u094d\u092e \u0928\u0939\u0940\u0902 \u0939\u0948, \u0909\u0938\u0915\u093e \u091c\u0940\u0935\u0928 \u092a\u094d\u0930\u0947\u092e \u0939\u0940\u0928 \u0939\u094b\u0917\u093e.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 2403.92,
+        "end": 2407.6,
+        "text": "\u092c\u0921\u093c\u093e \u0930\u0941\u0915\u093e, \u0905\u0928\u094d\u0924\u0939\u0940\u0928 \u092e\u0930\u0941\u0938\u094d\u0925\u0932.",
+        "pause_after": true,
+        "tonal_change": false
+    }
+]

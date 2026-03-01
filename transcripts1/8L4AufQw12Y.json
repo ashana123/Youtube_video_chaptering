@@ -1,0 +1,37 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.9,
+        "text": "What advice would you give the 25 year old version of it?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 3.06,
+        "end": 3.88,
+        "text": "Don't worry about it.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 3.98,
+        "end": 8.06,
+        "text": "If I think back, every single thing I have ever worried about has been fine.",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 8.22,
+        "end": 11.52,
+        "text": "Have you ever watched that Steve Jobs speech where he talks about connecting the dots backwards?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 11.8,
+        "end": 14.98,
+        "text": "You just have to trust that the dots will line up, and they do.",
+        "pause_after": false,
+        "tonal_change": false
+    }
+]

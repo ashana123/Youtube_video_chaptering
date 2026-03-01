@@ -1,0 +1,23 @@
+[
+    {
+        "start": 0.0,
+        "end": 3.32,
+        "text": "Could you explain to me what an anti-aging diet looks like?",
+        "pause_after": false,
+        "tonal_change": true
+    },
+    {
+        "start": 3.52,
+        "end": 12.24,
+        "text": "Lentils, vegetables, berries, nuts, seeds, extra virgin olive oil, avoid sugar, processed foods,",
+        "pause_after": false,
+        "tonal_change": false
+    },
+    {
+        "start": 12.86,
+        "end": 17.7,
+        "text": "fried foods, additives, and ingredients which you can't read the words.",
+        "pause_after": false,
+        "tonal_change": false
+    }
+]
